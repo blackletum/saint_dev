@@ -580,3 +580,1689 @@ Level flags = 0
 Total triangle count: 20461
 Writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
 9 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam2\steamapps\sourcemods\pf2\materials
+Loading D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.vmf
+material "concrete/concretewall011j" not found.
+Material not found!: CONCRETE/CONCRETEWALL011J
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "concrete/concretewall011d" not found.
+Material not found!: CONCRETE/CONCRETEWALL011D
+material "brick/brickwall001f" not found.
+Material not found!: BRICK/BRICKWALL001F
+material "brick/brickwall001e" not found.
+Material not found!: BRICK/BRICKWALL001E
+material "concrete/concretewall011i" not found.
+Material not found!: CONCRETE/CONCRETEWALL011I
+material "stone/stonewall029d" not found.
+Material not found!: STONE/STONEWALL029D
+material "concrete/concretewall011h" not found.
+Material not found!: CONCRETE/CONCRETEWALL011H
+material "concrete/concretewall011g" not found.
+Material not found!: CONCRETE/CONCRETEWALL011G
+material "metal/metalfireescape001a" not found.
+Material not found!: METAL/METALFIREESCAPE001A
+material "nature/tree_card_01" not found.
+Material not found!: NATURE/TREE_CARD_01
+material "nature/tree_card_02" not found.
+Material not found!: NATURE/TREE_CARD_02
+material "nature/tree_card_04" not found.
+Material not found!: NATURE/TREE_CARD_04
+material "nature/cloud001a" not found.
+Material not found!: NATURE/CLOUD001A
+material "effects/fakefog_yellow02" not found.
+Material not found!: EFFECTS/FAKEFOG_YELLOW02
+material "tfc2/in_metal_rus1" not found.
+Material not found!: TFC2/IN_METAL_RUS1
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 394 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_citadel01rt" not found.
+Can't load skybox file skybox/sky_citadel01 to build the default cubemap!
+Can't load skybox file skybox/sky_citadel01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (675970 bytes)
+Error loading studio model "models/props_c17/light_fluorescent01_on.mdl"!
+Error loading studio model "models/props_c17/lamp_bell01.mdl"!
+Error loading studio model "models/props_c17/lamp_bracket01.mdl"!
+Error loading studio model "models/props_c17/lamp_standard_on01.mdl"!
+Error loading studio model "models/props_wasteland/powertower01_skybox.mdl"!
+Error loading studio model "models/props_wasteland/hook01.mdl"!
+Error loading studio model "models/props_rooftop/chimneypipe_cluster02b.mdl"!
+Error loading studio model "models/props_c17/pipe_cap005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2173 texinfos to 1898
+Reduced 107 texdatas to 92 (3354 bytes to 2849)
+Writing D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 13600, actual size 10036
+5 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 16
+
+
+
+12 threads
+reading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+reading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.prt
+1904 portalclusters
+6981 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 66580 visible clusters (1.97%)
+Total clusters visible: 3386727
+Average clusters visible: 1778
+Building PAS...
+Average clusters audible: 1901
+visdatasize:914645  compressed from 913920
+writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[37 texlights parsed from 'lights.rad']
+
+Loading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+7515 faces
+807865 square feet [116332560.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7515 patches before subdivision
+7515 patches after subdivision
+112 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4755349, max 2734
+transfer lists:  36.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(17480, 16644, 10570)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3022, 2897, 1708)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(611, 602, 331)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(133, 131, 65)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32, 31, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 8, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0091 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes               1897/8192        22764/98304    (23.2%) 
+brushsides           13883/65536      111064/524288   (21.2%) 
+planes                5068/65536      101360/1310720  ( 7.7%) 
+vertexes             10462/65536      125544/786432   (16.0%) 
+nodes                 3108/65536       99456/2097152  ( 4.7%) 
+texinfos              1898/12288      136656/884736   (15.4%) 
+texdata                 92/2048         2944/65536    ( 4.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7515/65536      420840/3670016  (11.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5007/65536      280392/3670016  ( 7.6%) 
+leaves                3125/65536      100000/2097152  ( 4.8%) 
+leaffaces             9940/65536       19880/131072   (15.2%) 
+leafbrushes           3865/65536        7730/131072   ( 5.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            55414/512000     221656/2048000  (10.8%) 
+edges                33209/256000     132836/1024000  (13.0%) 
+LDR worldlights        111/8192         9768/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            708/32768        7080/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12681/65536       25362/131072   (19.3%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3461456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      914645/16777216 ( 5.5%) 
+entdata               [variable]      131174/393216   (33.4%) 
+LDR ambient table     3125/65536       12500/262144   ( 4.8%) 
+HDR ambient table     3125/65536       12500/262144   ( 4.8%) 
+LDR leaf ambient     14882/65536      416696/1835008  (22.7%) 
+HDR leaf ambient      3125/65536       87500/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/29282    ( 0.0%) 
+pakfile               [variable]       10036/0        ( 0.0%) 
+physics               [variable]      675970/4194304  (16.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20461
+Writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+9 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam2\steamapps\sourcemods\pf2\materials
+Loading D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.vmf
+material "concrete/concretewall011j" not found.
+Material not found!: CONCRETE/CONCRETEWALL011J
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "concrete/concretewall011d" not found.
+Material not found!: CONCRETE/CONCRETEWALL011D
+material "brick/brickwall001f" not found.
+Material not found!: BRICK/BRICKWALL001F
+material "brick/brickwall001e" not found.
+Material not found!: BRICK/BRICKWALL001E
+material "concrete/concretewall011i" not found.
+Material not found!: CONCRETE/CONCRETEWALL011I
+material "stone/stonewall029d" not found.
+Material not found!: STONE/STONEWALL029D
+material "concrete/concretewall011h" not found.
+Material not found!: CONCRETE/CONCRETEWALL011H
+material "concrete/concretewall011g" not found.
+Material not found!: CONCRETE/CONCRETEWALL011G
+material "metal/metalfireescape001a" not found.
+Material not found!: METAL/METALFIREESCAPE001A
+material "nature/tree_card_01" not found.
+Material not found!: NATURE/TREE_CARD_01
+material "nature/tree_card_02" not found.
+Material not found!: NATURE/TREE_CARD_02
+material "nature/tree_card_04" not found.
+Material not found!: NATURE/TREE_CARD_04
+material "nature/cloud001a" not found.
+Material not found!: NATURE/CLOUD001A
+material "effects/fakefog_yellow02" not found.
+Material not found!: EFFECTS/FAKEFOG_YELLOW02
+material "tfc2/in_metal_rus1" not found.
+Material not found!: TFC2/IN_METAL_RUS1
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 394 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_citadel01rt" not found.
+Can't load skybox file skybox/sky_citadel01 to build the default cubemap!
+Can't load skybox file skybox/sky_citadel01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (675970 bytes)
+Error loading studio model "models/props_c17/light_fluorescent01_on.mdl"!
+Error loading studio model "models/props_c17/lamp_bell01.mdl"!
+Error loading studio model "models/props_c17/lamp_bracket01.mdl"!
+Error loading studio model "models/props_c17/lamp_standard_on01.mdl"!
+Error loading studio model "models/props_wasteland/powertower01_skybox.mdl"!
+Error loading studio model "models/props_wasteland/hook01.mdl"!
+Error loading studio model "models/props_rooftop/chimneypipe_cluster02b.mdl"!
+Error loading studio model "models/props_c17/pipe_cap005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2173 texinfos to 1898
+Reduced 107 texdatas to 92 (3354 bytes to 2849)
+Writing D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 13600, actual size 10036
+5 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 16
+
+
+
+12 threads
+reading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+reading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.prt
+1904 portalclusters
+6981 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 66580 visible clusters (1.97%)
+Total clusters visible: 3386727
+Average clusters visible: 1778
+Building PAS...
+Average clusters audible: 1901
+visdatasize:914645  compressed from 913920
+writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[37 texlights parsed from 'lights.rad']
+
+Loading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+7515 faces
+807865 square feet [116332560.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7515 patches before subdivision
+7515 patches after subdivision
+112 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4755349, max 2734
+transfer lists:  36.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(17480, 16644, 10570)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3022, 2897, 1708)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(611, 602, 331)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(133, 131, 65)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32, 31, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 8, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0102 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes               1897/8192        22764/98304    (23.2%) 
+brushsides           13883/65536      111064/524288   (21.2%) 
+planes                5068/65536      101360/1310720  ( 7.7%) 
+vertexes             10462/65536      125544/786432   (16.0%) 
+nodes                 3108/65536       99456/2097152  ( 4.7%) 
+texinfos              1898/12288      136656/884736   (15.4%) 
+texdata                 92/2048         2944/65536    ( 4.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7515/65536      420840/3670016  (11.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5007/65536      280392/3670016  ( 7.6%) 
+leaves                3125/65536      100000/2097152  ( 4.8%) 
+leaffaces             9940/65536       19880/131072   (15.2%) 
+leafbrushes           3865/65536        7730/131072   ( 5.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            55414/512000     221656/2048000  (10.8%) 
+edges                33209/256000     132836/1024000  (13.0%) 
+LDR worldlights        111/8192         9768/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            708/32768        7080/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12681/65536       25362/131072   (19.3%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3461456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      914645/16777216 ( 5.5%) 
+entdata               [variable]      131175/393216   (33.4%) 
+LDR ambient table     3125/65536       12500/262144   ( 4.8%) 
+HDR ambient table     3125/65536       12500/262144   ( 4.8%) 
+LDR leaf ambient     14882/65536      416696/1835008  (22.7%) 
+HDR leaf ambient      3125/65536       87500/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/29282    ( 0.0%) 
+pakfile               [variable]       10036/0        ( 0.0%) 
+physics               [variable]      675970/4194304  (16.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20461
+Writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+9 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam2\steamapps\sourcemods\pf2\materials
+Loading D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.vmf
+material "concrete/concretewall011j" not found.
+Material not found!: CONCRETE/CONCRETEWALL011J
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "concrete/concretewall011d" not found.
+Material not found!: CONCRETE/CONCRETEWALL011D
+material "brick/brickwall001f" not found.
+Material not found!: BRICK/BRICKWALL001F
+material "brick/brickwall001e" not found.
+Material not found!: BRICK/BRICKWALL001E
+material "concrete/concretewall011i" not found.
+Material not found!: CONCRETE/CONCRETEWALL011I
+material "stone/stonewall029d" not found.
+Material not found!: STONE/STONEWALL029D
+material "concrete/concretewall011h" not found.
+Material not found!: CONCRETE/CONCRETEWALL011H
+material "concrete/concretewall011g" not found.
+Material not found!: CONCRETE/CONCRETEWALL011G
+material "metal/metalfireescape001a" not found.
+Material not found!: METAL/METALFIREESCAPE001A
+material "nature/tree_card_01" not found.
+Material not found!: NATURE/TREE_CARD_01
+material "nature/tree_card_02" not found.
+Material not found!: NATURE/TREE_CARD_02
+material "nature/tree_card_04" not found.
+Material not found!: NATURE/TREE_CARD_04
+material "nature/cloud001a" not found.
+Material not found!: NATURE/CLOUD001A
+material "effects/fakefog_yellow02" not found.
+Material not found!: EFFECTS/FAKEFOG_YELLOW02
+material "tfc2/in_metal_rus1" not found.
+Material not found!: TFC2/IN_METAL_RUS1
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 394 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_citadel01rt" not found.
+Can't load skybox file skybox/sky_citadel01 to build the default cubemap!
+Can't load skybox file skybox/sky_citadel01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (675970 bytes)
+Error loading studio model "models/props_c17/light_fluorescent01_on.mdl"!
+Error loading studio model "models/props_c17/lamp_bell01.mdl"!
+Error loading studio model "models/props_c17/lamp_bracket01.mdl"!
+Error loading studio model "models/props_c17/lamp_standard_on01.mdl"!
+Error loading studio model "models/props_wasteland/powertower01_skybox.mdl"!
+Error loading studio model "models/props_wasteland/hook01.mdl"!
+Error loading studio model "models/props_rooftop/chimneypipe_cluster02b.mdl"!
+Error loading studio model "models/props_c17/pipe_cap005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2173 texinfos to 1898
+Reduced 107 texdatas to 92 (3354 bytes to 2849)
+Writing D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 13600, actual size 10036
+5 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 16
+
+
+
+12 threads
+reading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+reading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.prt
+1904 portalclusters
+6981 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 66580 visible clusters (1.97%)
+Total clusters visible: 3386727
+Average clusters visible: 1778
+Building PAS...
+Average clusters audible: 1901
+visdatasize:914645  compressed from 913920
+writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[37 texlights parsed from 'lights.rad']
+
+Loading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+7515 faces
+807865 square feet [116332560.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7515 patches before subdivision
+7515 patches after subdivision
+112 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4755349, max 2734
+transfer lists:  36.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(17480, 16644, 10570)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3022, 2897, 1708)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(611, 602, 331)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(133, 131, 65)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32, 31, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 8, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0108 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes               1897/8192        22764/98304    (23.2%) 
+brushsides           13883/65536      111064/524288   (21.2%) 
+planes                5068/65536      101360/1310720  ( 7.7%) 
+vertexes             10462/65536      125544/786432   (16.0%) 
+nodes                 3108/65536       99456/2097152  ( 4.7%) 
+texinfos              1898/12288      136656/884736   (15.4%) 
+texdata                 92/2048         2944/65536    ( 4.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7515/65536      420840/3670016  (11.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5007/65536      280392/3670016  ( 7.6%) 
+leaves                3125/65536      100000/2097152  ( 4.8%) 
+leaffaces             9940/65536       19880/131072   (15.2%) 
+leafbrushes           3865/65536        7730/131072   ( 5.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            55414/512000     221656/2048000  (10.8%) 
+edges                33209/256000     132836/1024000  (13.0%) 
+LDR worldlights        111/8192         9768/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            708/32768        7080/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12681/65536       25362/131072   (19.3%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3461456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      914645/16777216 ( 5.5%) 
+entdata               [variable]      131197/393216   (33.4%) 
+LDR ambient table     3125/65536       12500/262144   ( 4.8%) 
+HDR ambient table     3125/65536       12500/262144   ( 4.8%) 
+LDR leaf ambient     14882/65536      416696/1835008  (22.7%) 
+HDR leaf ambient      3125/65536       87500/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/29282    ( 0.0%) 
+pakfile               [variable]       10036/0        ( 0.0%) 
+physics               [variable]      675970/4194304  (16.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20461
+Writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+9 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam2\steamapps\sourcemods\pf2\materials
+Loading D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.vmf
+material "concrete/concretewall011j" not found.
+Material not found!: CONCRETE/CONCRETEWALL011J
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "concrete/concretewall011d" not found.
+Material not found!: CONCRETE/CONCRETEWALL011D
+material "brick/brickwall001f" not found.
+Material not found!: BRICK/BRICKWALL001F
+material "brick/brickwall001e" not found.
+Material not found!: BRICK/BRICKWALL001E
+material "concrete/concretewall011i" not found.
+Material not found!: CONCRETE/CONCRETEWALL011I
+material "stone/stonewall029d" not found.
+Material not found!: STONE/STONEWALL029D
+material "concrete/concretewall011h" not found.
+Material not found!: CONCRETE/CONCRETEWALL011H
+material "concrete/concretewall011g" not found.
+Material not found!: CONCRETE/CONCRETEWALL011G
+material "metal/metalfireescape001a" not found.
+Material not found!: METAL/METALFIREESCAPE001A
+material "nature/tree_card_01" not found.
+Material not found!: NATURE/TREE_CARD_01
+material "nature/tree_card_02" not found.
+Material not found!: NATURE/TREE_CARD_02
+material "nature/tree_card_04" not found.
+Material not found!: NATURE/TREE_CARD_04
+material "nature/cloud001a" not found.
+Material not found!: NATURE/CLOUD001A
+material "effects/fakefog_yellow02" not found.
+Material not found!: EFFECTS/FAKEFOG_YELLOW02
+material "tfc2/in_metal_rus1" not found.
+Material not found!: TFC2/IN_METAL_RUS1
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 394 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_citadel01rt" not found.
+Can't load skybox file skybox/sky_citadel01 to build the default cubemap!
+Can't load skybox file skybox/sky_citadel01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (675970 bytes)
+Error loading studio model "models/props_c17/light_fluorescent01_on.mdl"!
+Error loading studio model "models/props_c17/lamp_bell01.mdl"!
+Error loading studio model "models/props_c17/lamp_bracket01.mdl"!
+Error loading studio model "models/props_c17/lamp_standard_on01.mdl"!
+Error loading studio model "models/props_wasteland/powertower01_skybox.mdl"!
+Error loading studio model "models/props_wasteland/hook01.mdl"!
+Error loading studio model "models/props_rooftop/chimneypipe_cluster02b.mdl"!
+Error loading studio model "models/props_c17/pipe_cap005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2173 texinfos to 1898
+Reduced 107 texdatas to 92 (3354 bytes to 2849)
+Writing D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 13600, actual size 10036
+5 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 16
+
+
+
+12 threads
+reading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+reading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.prt
+1904 portalclusters
+6981 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 66580 visible clusters (1.97%)
+Total clusters visible: 3386727
+Average clusters visible: 1778
+Building PAS...
+Average clusters audible: 1901
+visdatasize:914645  compressed from 913920
+writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[37 texlights parsed from 'lights.rad']
+
+Loading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+7515 faces
+807865 square feet [116332560.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7515 patches before subdivision
+7515 patches after subdivision
+112 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4755349, max 2734
+transfer lists:  36.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(17480, 16644, 10570)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3022, 2897, 1708)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(611, 602, 331)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(133, 131, 65)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32, 31, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 8, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0089 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes               1897/8192        22764/98304    (23.2%) 
+brushsides           13883/65536      111064/524288   (21.2%) 
+planes                5068/65536      101360/1310720  ( 7.7%) 
+vertexes             10462/65536      125544/786432   (16.0%) 
+nodes                 3108/65536       99456/2097152  ( 4.7%) 
+texinfos              1898/12288      136656/884736   (15.4%) 
+texdata                 92/2048         2944/65536    ( 4.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7515/65536      420840/3670016  (11.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5007/65536      280392/3670016  ( 7.6%) 
+leaves                3125/65536      100000/2097152  ( 4.8%) 
+leaffaces             9940/65536       19880/131072   (15.2%) 
+leafbrushes           3865/65536        7730/131072   ( 5.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            55414/512000     221656/2048000  (10.8%) 
+edges                33209/256000     132836/1024000  (13.0%) 
+LDR worldlights        111/8192         9768/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            708/32768        7080/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12681/65536       25362/131072   (19.3%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3461456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      914645/16777216 ( 5.5%) 
+entdata               [variable]      131206/393216   (33.4%) 
+LDR ambient table     3125/65536       12500/262144   ( 4.8%) 
+HDR ambient table     3125/65536       12500/262144   ( 4.8%) 
+LDR leaf ambient     14882/65536      416696/1835008  (22.7%) 
+HDR leaf ambient      3125/65536       87500/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/29282    ( 0.0%) 
+pakfile               [variable]       10036/0        ( 0.0%) 
+physics               [variable]      675970/4194304  (16.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20461
+Writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+9 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam2\steamapps\sourcemods\pf2\materials
+Loading D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.vmf
+material "concrete/concretewall011j" not found.
+Material not found!: CONCRETE/CONCRETEWALL011J
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "concrete/concretewall011d" not found.
+Material not found!: CONCRETE/CONCRETEWALL011D
+material "brick/brickwall001f" not found.
+Material not found!: BRICK/BRICKWALL001F
+material "brick/brickwall001e" not found.
+Material not found!: BRICK/BRICKWALL001E
+material "concrete/concretewall011i" not found.
+Material not found!: CONCRETE/CONCRETEWALL011I
+material "stone/stonewall029d" not found.
+Material not found!: STONE/STONEWALL029D
+material "concrete/concretewall011h" not found.
+Material not found!: CONCRETE/CONCRETEWALL011H
+material "concrete/concretewall011g" not found.
+Material not found!: CONCRETE/CONCRETEWALL011G
+material "metal/metalfireescape001a" not found.
+Material not found!: METAL/METALFIREESCAPE001A
+material "nature/tree_card_01" not found.
+Material not found!: NATURE/TREE_CARD_01
+material "nature/tree_card_02" not found.
+Material not found!: NATURE/TREE_CARD_02
+material "nature/tree_card_04" not found.
+Material not found!: NATURE/TREE_CARD_04
+material "nature/cloud001a" not found.
+Material not found!: NATURE/CLOUD001A
+material "effects/fakefog_yellow02" not found.
+Material not found!: EFFECTS/FAKEFOG_YELLOW02
+material "tfc2/in_metal_rus1" not found.
+Material not found!: TFC2/IN_METAL_RUS1
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+error: material DEV/DEV_WATERBENEATH2 doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 394 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.prt...Building visibility clusters...
+done (0)
+material "skybox/sky_citadel01rt" not found.
+Can't load skybox file skybox/sky_citadel01 to build the default cubemap!
+Can't load skybox file skybox/sky_citadel01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (675970 bytes)
+Error loading studio model "models/props_c17/light_fluorescent01_on.mdl"!
+Error loading studio model "models/props_c17/lamp_bell01.mdl"!
+Error loading studio model "models/props_c17/lamp_bracket01.mdl"!
+Error loading studio model "models/props_c17/lamp_standard_on01.mdl"!
+Error loading studio model "models/props_wasteland/powertower01_skybox.mdl"!
+Error loading studio model "models/props_wasteland/hook01.mdl"!
+Error loading studio model "models/props_rooftop/chimneypipe_cluster02b.mdl"!
+Error loading studio model "models/props_c17/pipe_cap005b.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2173 texinfos to 1898
+Reduced 107 texdatas to 92 (3354 bytes to 2849)
+Writing D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 13600, actual size 10036
+6 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 16
+
+
+
+12 threads
+reading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+reading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.prt
+1904 portalclusters
+6981 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 66580 visible clusters (1.97%)
+Total clusters visible: 3386727
+Average clusters visible: 1778
+Building PAS...
+Average clusters audible: 1901
+visdatasize:914645  compressed from 913920
+writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[37 texlights parsed from 'lights.rad']
+
+Loading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+7515 faces
+807865 square feet [116332560.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7515 patches before subdivision
+7515 patches after subdivision
+112 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4755349, max 2734
+transfer lists:  36.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(17480, 16644, 10570)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3022, 2897, 1708)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(611, 602, 331)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(133, 131, 65)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32, 31, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 8, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0095 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes               1897/8192        22764/98304    (23.2%) 
+brushsides           13883/65536      111064/524288   (21.2%) 
+planes                5068/65536      101360/1310720  ( 7.7%) 
+vertexes             10462/65536      125544/786432   (16.0%) 
+nodes                 3108/65536       99456/2097152  ( 4.7%) 
+texinfos              1898/12288      136656/884736   (15.4%) 
+texdata                 92/2048         2944/65536    ( 4.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7515/65536      420840/3670016  (11.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5007/65536      280392/3670016  ( 7.6%) 
+leaves                3125/65536      100000/2097152  ( 4.8%) 
+leaffaces             9940/65536       19880/131072   (15.2%) 
+leafbrushes           3865/65536        7730/131072   ( 5.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            55414/512000     221656/2048000  (10.8%) 
+edges                33209/256000     132836/1024000  (13.0%) 
+LDR worldlights        111/8192         9768/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            708/32768        7080/327680   ( 2.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12681/65536       25362/131072   (19.3%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3461456/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      914645/16777216 ( 5.5%) 
+entdata               [variable]      131194/393216   (33.4%) 
+LDR ambient table     3125/65536       12500/262144   ( 4.8%) 
+HDR ambient table     3125/65536       12500/262144   ( 4.8%) 
+LDR leaf ambient     14882/65536      416696/1835008  (22.7%) 
+HDR leaf ambient      3125/65536       87500/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/29282    ( 0.0%) 
+pakfile               [variable]       10036/0        ( 0.0%) 
+physics               [variable]      675970/4194304  (16.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 20461
+Writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+9 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam2\steamapps\sourcemods\pf2\materials
+Loading D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.vmf
+***need to set $abovewater for material dev/dev_waterbeneath2
+***need to set $abovewater for material dev/dev_waterbeneath2
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+Material DEV/DEV_WATERBENEATH2 is depending on itself through materialvar $bottommaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 394 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_citadel01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_citadel01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (675956 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2210 texinfos to 1905
+Reduced 124 texdatas to 106 (4400 bytes to 3799)
+Writing D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1326838, actual size 1316976
+2 seconds elapsed
+
+
+
+12 threads
+reading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+reading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.prt
+2099 portalclusters
+7611 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8699 visible clusters (0.32%)
+Total clusters visible: 2736287
+Average clusters visible: 1303
+Building PAS...
+Average clusters audible: 2078
+visdatasize:1051717  compressed from 1108272
+writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp', but we don't own that location. Allowing.
+13 hours, 18 minutes, 53 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[37 texlights parsed from 'lights.rad']
+
+Loading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+7830 faces
+827831 square feet [119207776.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7830 patches before subdivision
+75550 patches after subdivision
+112 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 23488157, max 2824
+transfer lists: 179.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(416907, 392992, 254899)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(68507, 60679, 33695)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13259, 10992, 5114)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2771, 2213, 879)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(614, 463, 154)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(141, 101, 28)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(33, 22, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(8, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0121 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes               1897/8192        22764/98304    (23.2%) 
+brushsides           13883/65536      111064/524288   (21.2%) 
+planes                5068/65536      101360/1310720  ( 7.7%) 
+vertexes             10679/65536      128148/786432   (16.3%) 
+nodes                 3275/65536      104800/2097152  ( 5.0%) 
+texinfos              1905/12288      137160/884736   (15.5%) 
+texdata                106/2048         3392/65536    ( 5.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7830/65536      438480/3670016  (11.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4990/65536      279440/3670016  ( 7.6%) 
+leaves                3292/65536      105344/2097152  ( 5.0%) 
+leaffaces            10110/65536       20220/131072   (15.4%) 
+leafbrushes           3865/65536        7730/131072   ( 5.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            56661/512000     226644/2048000  (11.1%) 
+edges                33731/256000     134924/1024000  (13.2%) 
+LDR worldlights        111/8192         9768/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            700/32768        7000/327680   ( 2.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12675/65536       25350/131072   (19.3%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3408980/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1051717/16777216 ( 6.3%) 
+entdata               [variable]      131194/393216   (33.4%) 
+LDR ambient table     3292/65536       13168/262144   ( 5.0%) 
+HDR ambient table     3292/65536       13168/262144   ( 5.0%) 
+LDR leaf ambient     15221/65536      426188/1835008  (23.2%) 
+HDR leaf ambient      3292/65536       92176/1835008  ( 5.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/33914    ( 0.0%) 
+pakfile               [variable]     2992020/0        ( 0.0%) 
+physics               [variable]      675956/4194304  (16.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 21146
+Writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+41 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[37 texlights parsed from 'lights.rad']
+
+Loading d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+7830 faces
+827831 square feet [119207776.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7830 patches before subdivision
+75550 patches after subdivision
+112 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 23488157, max 2824
+transfer lists: 179.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(416907, 392993, 254899)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(68507, 60679, 33695)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13259, 10992, 5114)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2771, 2213, 879)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(614, 463, 154)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(141, 101, 28)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(33, 22, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(8, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0141 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  16/1024          768/49152    ( 1.6%) 
+brushes               1897/8192        22764/98304    (23.2%) 
+brushsides           13883/65536      111064/524288   (21.2%) 
+planes                5068/65536      101360/1310720  ( 7.7%) 
+vertexes             10679/65536      128148/786432   (16.3%) 
+nodes                 3275/65536      104800/2097152  ( 5.0%) 
+texinfos              1905/12288      137160/884736   (15.5%) 
+texdata                106/2048         3392/65536    ( 5.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7830/65536      438480/3670016  (11.9%) 
+hdr faces             7830/65536      438480/3670016  (11.9%) 
+origfaces             4990/65536      279440/3670016  ( 7.6%) 
+leaves                3292/65536      105344/2097152  ( 5.0%) 
+leaffaces            10110/65536       20220/131072   (15.4%) 
+leafbrushes           3865/65536        7730/131072   ( 5.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            56661/512000     226644/2048000  (11.1%) 
+edges                33731/256000     134924/1024000  (13.2%) 
+LDR worldlights        111/8192         9768/720896   ( 1.4%) 
+HDR worldlights        111/8192         9768/720896   ( 1.4%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            700/32768        7000/327680   ( 2.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         12675/65536       25350/131072   (19.3%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3408980/0        ( 0.0%) 
+HDR lightdata         [variable]     3408980/0        ( 0.0%) 
+visdata               [variable]     1051717/16777216 ( 6.3%) 
+entdata               [variable]      131194/393216   (33.4%) 
+LDR ambient table     3292/65536       13168/262144   ( 5.0%) 
+HDR ambient table     3292/65536       13168/262144   ( 5.0%) 
+LDR leaf ambient     15221/65536      426188/1835008  (23.2%) 
+HDR leaf ambient     15221/65536      426188/1835008  (23.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/33914    ( 0.0%) 
+pakfile               [variable]     4670008/0        ( 0.0%) 
+physics               [variable]      675956/4194304  (16.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 21146
+Writing d:\development\saint_dev\map_src\pf2\ctf_2fort team gaben leak\ctf_2fort_teamgaben_v0.bsp
+40 seconds elapsed
