@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTimesVertexColorAlphaBlend
+	"$basetexture" "effects/fakefog_yellow02"
+//	"$vertexcolor" 1
+	"$translucent" 1
+	"$nofog" 1
+
+	
+}

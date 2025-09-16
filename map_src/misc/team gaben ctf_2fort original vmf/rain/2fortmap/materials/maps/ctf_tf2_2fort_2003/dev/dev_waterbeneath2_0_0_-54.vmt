@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/DEV/DEV_WATERBENEATH2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ctf_tf2_2fort_2003/c0_0_-54"
+		"Proxies"
+		{
+		}
+	}
+}

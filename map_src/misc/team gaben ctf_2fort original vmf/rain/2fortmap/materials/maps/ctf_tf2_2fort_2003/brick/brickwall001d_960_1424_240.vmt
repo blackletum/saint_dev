@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BRICK/BRICKWALL001D.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ctf_tf2_2fort_2003/c960_1424_240"
+	}
+}
