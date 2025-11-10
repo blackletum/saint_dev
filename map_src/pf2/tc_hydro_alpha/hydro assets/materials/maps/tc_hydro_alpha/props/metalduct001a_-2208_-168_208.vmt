@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PROPS/METALDUCT001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/tc_hydro_alpha/c-2208_-168_208"
+	}
+}

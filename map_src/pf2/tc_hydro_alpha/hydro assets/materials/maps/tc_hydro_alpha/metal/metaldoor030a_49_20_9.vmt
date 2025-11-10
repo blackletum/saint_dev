@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALDOOR030A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/tc_hydro_alpha/c49_20_9"
+	}
+}
