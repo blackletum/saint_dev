@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "4133"
+	"mapversion" "4137"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -473,7 +473,7 @@ bgimages_plus
 world
 {
 	"id" "4396"
-	"mapversion" "4133"
+	"mapversion" "4137"
 	"classname" "worldspawn"
 	"chaptertitle" "INVASION 2FORT"
 	"coldworld" "1"
@@ -165790,13 +165790,13 @@ world
 		side
 		{
 			"id" "397606"
-			"plane" "(529 456.306 -180) (1053 508 -180) (1053 0 -180)"
+			"plane" "(529 454.305 -180) (1053 508 -180) (1053 -19.6611 -180)"
 			vertices_plus
 			{
-				"v" "529 456.306 -180"
+				"v" "529 454.305 -180"
 				"v" "1053 508 -180"
-				"v" "1053 0 -180"
-				"v" "529 -448 -180"
+				"v" "1053 -19.6611 -180"
+				"v" "529 -485 -180"
 			}
 			"material" "NATURE/TOXICSLIME002A_DX70_BENEATH"
 			"uaxis" "[1 0 0 0] 1"
@@ -165808,13 +165808,13 @@ world
 		side
 		{
 			"id" "397605"
-			"plane" "(1053 508 -314.815) (529 456.308 -314.815) (529 -448 -314.815)"
+			"plane" "(1053 508 -314.815) (529 454.307 -314.815) (529 -485 -314.815)"
 			vertices_plus
 			{
 				"v" "1053 508 -314.815"
-				"v" "529 456.308 -314.815"
-				"v" "529 -448 -314.815"
-				"v" "1053 0 -314.815"
+				"v" "529 454.307 -314.815"
+				"v" "529 -485 -314.815"
+				"v" "1053 -19.6611 -314.815"
 			}
 			"material" "NATURE/TOXICSLIME002A_DX70_BENEATH"
 			"uaxis" "[1 0 0 0] 1"
@@ -165826,13 +165826,13 @@ world
 		side
 		{
 			"id" "397604"
-			"plane" "(529 456.306 -314.815) (1053 508 -314.815) (1053 508 -180)"
+			"plane" "(529 454.305 -314.815) (1053 508 -314.815) (1053 508 -180)"
 			vertices_plus
 			{
-				"v" "529 456.306 -314.815"
+				"v" "529 454.305 -314.815"
 				"v" "1053 508 -314.815"
 				"v" "1053 508 -180"
-				"v" "529 456.306 -180"
+				"v" "529 454.305 -180"
 			}
 			"material" "NATURE/TOXICSLIME002A_DX70_BENEATH"
 			"uaxis" "[1 0 0 0] 1"
@@ -165844,13 +165844,13 @@ world
 		side
 		{
 			"id" "397603"
-			"plane" "(1053 0 -314.815) (529 -448 -314.815) (529 -448 -180)"
+			"plane" "(1053 -19.6611 -314.815) (529 -485 -314.815) (529 -485 -180)"
 			vertices_plus
 			{
-				"v" "1053 0 -314.815"
-				"v" "529 -448 -314.815"
-				"v" "529 -448 -180"
-				"v" "1053 0 -180"
+				"v" "1053 -19.6611 -314.815"
+				"v" "529 -485 -314.815"
+				"v" "529 -485 -180"
+				"v" "1053 -19.6611 -180"
 			}
 			"material" "NATURE/TOXICSLIME002A_DX70_BENEATH"
 			"uaxis" "[1 0 0 0] 1"
@@ -165862,12 +165862,12 @@ world
 		side
 		{
 			"id" "397602"
-			"plane" "(1053 508 -314.815) (1053 0 -314.815) (1053 0 -180)"
+			"plane" "(1053 508 -314.815) (1053 -19.6611 -314.815) (1053 -19.6611 -180)"
 			vertices_plus
 			{
 				"v" "1053 508 -314.815"
-				"v" "1053 0 -314.815"
-				"v" "1053 0 -180"
+				"v" "1053 -19.6611 -314.815"
+				"v" "1053 -19.6611 -180"
 				"v" "1053 508 -180"
 			}
 			"material" "NATURE/TOXICSLIME002A_DX70_BENEATH"
@@ -165880,13 +165880,13 @@ world
 		side
 		{
 			"id" "397601"
-			"plane" "(529 -448 -314.815) (529 456.306 -314.815) (529 456.306 -180)"
+			"plane" "(529 -485 -314.815) (529 454.305 -314.815) (529 454.305 -180)"
 			vertices_plus
 			{
-				"v" "529 -448 -314.815"
-				"v" "529 456.306 -314.815"
-				"v" "529 456.306 -180"
-				"v" "529 -448 -180"
+				"v" "529 -485 -314.815"
+				"v" "529 454.305 -314.815"
+				"v" "529 454.305 -180"
+				"v" "529 -485 -180"
 			}
 			"material" "NATURE/TOXICSLIME002A_DX70_BENEATH"
 			"uaxis" "[0 1 0 0] 0.25"
@@ -856619,6 +856619,64 @@ entity
 		"logicalpos" "[0 0]"
 	}
 }
+entity
+{
+	"id" "5585234"
+	"classname" "prop_dynamic"
+	"angles" "0 47 0"
+	"DisableBoneFollowers" "0"
+	"disablereceiveshadows" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"MaxAnimTime" "10"
+	"maxdxlevel" "0"
+	"MinAnimTime" "5"
+	"mindxlevel" "0"
+	"model" "models/props_2fort/frog.mdl"
+	"modelscale" "0.2"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
+	"skin" "0"
+	"solid" "6"
+	"spawnflags" "0"
+	"StartDisabled" "0"
+	"origin" "784.576 -211.59 -180.488"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "5585242"
+	"classname" "info_observer_point"
+	"angles" "6 222 0"
+	"defaultwelcome" "1"
+	"fov" "130"
+	"targetname" "observer_froge"
+	"TeamNum" "0"
+	"origin" "810.757 -192.05 -161.971"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "1"
@@ -856629,8 +856687,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[528.124 452.51 -132.348]"
-		"look" "[522.2 310.729 -324.821]"
+		"position" "[771.961 -193.354 -169.294]"
+		"look" "[955.355 -345.029 -192.628]"
 	}
 	camera
 	{
