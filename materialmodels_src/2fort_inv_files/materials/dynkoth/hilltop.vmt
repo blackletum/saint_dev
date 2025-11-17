@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+  "$basetexture" "dynkoth/hilltop"
+  "$surfaceprop" "no_decal"
+  "$translucent" "1"
+  "Proxies"
+  {
+    "TextureScroll"
+    {
+      "texturescrollvar" "$baseTextureTransform"
+      "texturescrollrate" "0.1"
+      "texturescrollangle" "0.00"
+    }
+  }
+}
