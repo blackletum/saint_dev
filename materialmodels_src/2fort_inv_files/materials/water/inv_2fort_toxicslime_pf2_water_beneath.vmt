@@ -1,0 +1,59 @@
+"Water"
+{
+	"%keywords" "tf"
+    "$forceexpensive" 1
+
+	"$abovewater" "0"
+	"%compilewater" "1"
+
+	"%tooltexture" "dev/water_normal"
+	"$bumpmap" "water/tfwater001_dudv"
+	"$normalmap" "water/tfwater001_normal"
+
+	"$surfaceprop" "water"
+
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refractamount" "0.25"
+	"$refracttint" "[.8 .75 .65]"
+
+	"$scale" "[1 1]"
+
+	"$fogenable" "1"
+	"$fogcolor" "{42 75 34}"
+	"$fogstart" "1.00"
+	"$fogend" "80.00"
+
+	"$bumpframe" "0"
+    "$blurrefract" "1"
+
+    "$CHEAPWATERSTARTDISTANCE" 500.0
+	"$CHEAPWATERENDDISTANCE" 1000.0
+
+    $underwateroverlay "effects/water_warp_well"
+
+    "Water_DX60"
+	{
+		"$fallbackmaterial" "nature/water_dx70_beneath"
+	}
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" "20.00"
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" "0.025"
+			"texturescrollangle" "45.00"
+		}
+
+		"WaterLOD"
+		{
+		}
+	}
+}
