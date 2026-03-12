@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "4264"
+	"mapversion" "4275"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -311,7 +311,7 @@ bgimages_plus
 world
 {
 	"id" "4396"
-	"mapversion" "4264"
+	"mapversion" "4275"
 	"classname" "worldspawn"
 	"chaptertitle" "INVASION 2FORT"
 	"coldworld" "1"
@@ -204648,6 +204648,10 @@ entity
 	"targetname" "flag"
 	"TeamNum" "0"
 	"trail_effect" "1"
+	connections
+	{
+		"OnCapture" "relay_flag_return_delay,Trigger,,0,-1"
+	}
 	"origin" "8.74869 1.98462 20.6811"
 	editor
 	{
@@ -213066,12 +213070,12 @@ entity
 {
 	"id" "5585242"
 	"classname" "info_observer_point"
-	"angles" "6 222 0"
+	"angles" "16 222 0"
 	"defaultwelcome" "1"
-	"fov" "130"
+	"fov" "50"
 	"targetname" "observer_froge"
 	"TeamNum" "0"
-	"origin" "810.757 -192.05 -161.971"
+	"origin" "804.757 -195.05 -166.971"
 	editor
 	{
 		"color" "220 30 220"
@@ -222736,13 +222740,189 @@ entity
 	"angles" "-90 180 0"
 	"pitch" "-90"
 	"style" "1"
-	"origin" "780.136 -209.891 -146.746"
+	"origin" "796.136 -202.891 -148.746"
 	editor
 	{
 		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-11744.1 -10666.1]"
+	}
+}
+entity
+{
+	"id" "5648934"
+	"classname" "logic_relay"
+	"spawnflags" "0"
+	"targetname" "relay_flag_return_delay"
+	connections
+	{
+		"OnTrigger" "item_teamflag,Disable,,0,-1"
+		"OnTrigger" "item_teamflag,Enable,,10,-1"
+		"OnTrigger" "FlagReturned,PlaySound,,10,-1"
+	}
+	"origin" "-207.5 55.5 617"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "5648973"
+	"classname" "ambient_generic"
+	"cspinup" "0"
+	"fadeinsecs" "0"
+	"fadeoutsecs" "0"
+	"health" "10"
+	"lfomodpitch" "0"
+	"lfomodvol" "0"
+	"lforate" "0"
+	"lfotype" "0"
+	"message" "ambient/alarms/warningbell1.wav"
+	"pitch" "100"
+	"pitchstart" "100"
+	"preset" "0"
+	"radius" "2000"
+	"spawnflags" "49"
+	"spindown" "0"
+	"spinup" "0"
+	"targetname" "FlagReturned"
+	"volstart" "0"
+	"origin" "-208 39.5 615"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "5649023"
+	"classname" "ambient_generic"
+	"cspinup" "0"
+	"fadeinsecs" "0"
+	"fadeoutsecs" "0"
+	"health" "10"
+	"lfomodpitch" "0"
+	"lfomodvol" "0"
+	"lforate" "0"
+	"lfotype" "0"
+	"message" "ambient/alarms/warningbell1.wav"
+	"pitch" "100"
+	"pitchstart" "100"
+	"preset" "0"
+	"radius" "2000"
+	"spawnflags" "49"
+	"spindown" "0"
+	"spinup" "0"
+	"targetname" "FlagReturned"
+	"volstart" "0"
+	"origin" "-207.269 39.2848 631"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "5649029"
+	"classname" "ambient_generic"
+	"cspinup" "0"
+	"fadeinsecs" "0"
+	"fadeoutsecs" "0"
+	"health" "10"
+	"lfomodpitch" "0"
+	"lfomodvol" "0"
+	"lforate" "0"
+	"lfotype" "0"
+	"message" "ambient/alarms/warningbell1.wav"
+	"pitch" "100"
+	"pitchstart" "100"
+	"preset" "0"
+	"radius" "2000"
+	"spawnflags" "49"
+	"spindown" "0"
+	"spinup" "0"
+	"targetname" "FlagReturned"
+	"volstart" "0"
+	"origin" "-206.202 38.1136 647"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "5649077"
+	"classname" "ambient_generic"
+	"cspinup" "0"
+	"fadeinsecs" "0"
+	"fadeoutsecs" "0"
+	"health" "10"
+	"lfomodpitch" "0"
+	"lfomodvol" "0"
+	"lforate" "0"
+	"lfotype" "0"
+	"message" "ambient/alarms/warningbell1.wav"
+	"pitch" "100"
+	"pitchstart" "100"
+	"preset" "0"
+	"radius" "2000"
+	"spawnflags" "49"
+	"spindown" "0"
+	"spinup" "0"
+	"targetname" "FlagReturned"
+	"volstart" "0"
+	"origin" "-204.796 37.197 663"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "5649080"
+	"classname" "ambient_generic"
+	"cspinup" "0"
+	"fadeinsecs" "0"
+	"fadeoutsecs" "0"
+	"health" "10"
+	"lfomodpitch" "0"
+	"lfomodvol" "0"
+	"lforate" "0"
+	"lfotype" "0"
+	"message" "ambient/alarms/warningbell1.wav"
+	"pitch" "100"
+	"pitchstart" "100"
+	"preset" "0"
+	"radius" "2000"
+	"spawnflags" "49"
+	"spindown" "0"
+	"spinup" "0"
+	"targetname" "FlagReturned"
+	"volstart" "0"
+	"origin" "-204.341 37.7315 679"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
 	}
 }
 cameras
@@ -222755,8 +222935,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[796.05 -162.738 -164.005]"
-		"look" "[731.852 -392.69 -150.657]"
+		"position" "[-92.806 71.9927 615.231]"
+		"look" "[-315.88 9.70778 674.698]"
 	}
 	camera
 	{
