@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "4262"
+	"mapversion" "4263"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -311,7 +311,7 @@ bgimages_plus
 world
 {
 	"id" "4396"
-	"mapversion" "4262"
+	"mapversion" "4263"
 	"classname" "worldspawn"
 	"chaptertitle" "INVASION 2FORT"
 	"coldworld" "1"
@@ -213646,7 +213646,7 @@ entity
 	"lfomodvol" "0"
 	"lforate" "0"
 	"lfotype" "0"
-	"message" "music/manhack_arcade.mp3"
+	"message" "music/manhack_arcade.wav"
 	"pitch" "100"
 	"pitchstart" "100"
 	"preset" "0"
@@ -213655,7 +213655,7 @@ entity
 	"spindown" "0"
 	"spinup" "15"
 	"targetname" "darkngritty"
-	"volstart" "4"
+	"volstart" "3"
 	"origin" "10.2471 2.09175 68.3529"
 	editor
 	{
@@ -222717,6 +222717,34 @@ entity
 		"logicalpos" "[0 6000]"
 	}
 }
+entity
+{
+	"id" "5646253"
+	"classname" "light_spot"
+	"_cone" "70"
+	"_constant_attn" "0"
+	"_distance" "0"
+	"_exponent" "1"
+	"_fifty_percent_distance" "100"
+	"_inner_cone" "30"
+	"_light" "255 255 255 300"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_linear_attn" "0"
+	"_quadratic_attn" "1"
+	"_zero_percent_distance" "800"
+	"angles" "-90 180 0"
+	"pitch" "-90"
+	"style" "1"
+	"origin" "780.136 -209.891 -146.746"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-11744.1 -10666.1]"
+	}
+}
 cameras
 {
 	"activecamera" "1"
@@ -222727,8 +222755,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[1097.32 328.657 150.263]"
-		"look" "[894.782 238.479 60.6865]"
+		"position" "[86.2345 -280.728 106.841]"
+		"look" "[175.598 -501.892 90.1612]"
 	}
 	camera
 	{
