@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "4275"
+	"mapversion" "4279"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -311,7 +311,7 @@ bgimages_plus
 world
 {
 	"id" "4396"
-	"mapversion" "4275"
+	"mapversion" "4279"
 	"classname" "worldspawn"
 	"chaptertitle" "INVASION 2FORT"
 	"coldworld" "1"
@@ -222925,6 +222925,38 @@ entity
 		"logicalpos" "[0 500]"
 	}
 }
+entity
+{
+	"id" "5649083"
+	"classname" "point_servercommand"
+	"targetname" "cmd_caplimit"
+	"origin" "-204 37 687"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5649107"
+	"classname" "logic_auto"
+	"spawnflags" "1"
+	connections
+	{
+		"OnMapSpawn" "cmd_caplimit,Command,tf_flag_caps_per_round 9,0,-1"
+	}
+	"origin" "-201 36 704"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1500]"
+	}
+}
 cameras
 {
 	"activecamera" "1"
@@ -222935,8 +222967,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[-92.806 71.9927 615.231]"
-		"look" "[-315.88 9.70778 674.698]"
+		"position" "[-164.338 20.354 707.928]"
+		"look" "[-383.861 110.83 679.616]"
 	}
 	camera
 	{
