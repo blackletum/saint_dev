@@ -10,9 +10,9 @@
 	"$envmaptint" "[ 1.00 .89 .80 ]"
 	"$envmapcontrast" "1"
 
-	"$surfaceprop" "slime"
+	"$surfaceprop" "Water"
 	"%keywords" "wasteland"
-	"%compileSlime" 1
+	"%CompileWater" 1
 
 	"$bottommaterial" "water/inv_2fort_toxicslime_pf2_water_beneath"
 
