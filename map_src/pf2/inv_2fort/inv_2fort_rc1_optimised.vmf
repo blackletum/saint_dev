@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "4280"
+	"mapversion" "4304"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -311,7 +311,7 @@ bgimages_plus
 world
 {
 	"id" "4396"
-	"mapversion" "4280"
+	"mapversion" "4304"
 	"classname" "worldspawn"
 	"chaptertitle" "INVASION 2FORT"
 	"coldworld" "1"
@@ -222760,6 +222760,8 @@ entity
 		"OnTrigger" "item_teamflag,Disable,,0,-1"
 		"OnTrigger" "item_teamflag,Enable,,10,-1"
 		"OnTrigger" "FlagReturned,PlaySound,,10,-1"
+		"OnTrigger" "intel_msg_10s,Display,,0,-1"
+		"OnTrigger" "intel_msg_5s,Display,,5,-1"
 	}
 	"origin" "-207.5 55.5 617"
 	editor
@@ -222945,6 +222947,99 @@ entity
 		"logicalpos" "[0 1500]"
 	}
 }
+entity
+{
+	"id" "5651734"
+	"classname" "game_text"
+	"autobreak" "1"
+	"channel" "1"
+	"color" "100 100 100"
+	"color2" "240 110 0"
+	"effect" "0"
+	"fadein" "0"
+	"fadeout" "1"
+	"fxtime" "0.25"
+	"holdtime" "3"
+	"message" "FLAG RESETS IN 10 SECONDS!"
+	"spawnflags" "1"
+	"targetname" "intel_msg_10s"
+	"x" "-1"
+	"y" "-0.60"
+	"origin" "-202.5 35 721"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "5651776"
+	"classname" "game_text"
+	"autobreak" "1"
+	"channel" "1"
+	"color" "100 100 100"
+	"color2" "240 110 0"
+	"effect" "0"
+	"fadein" "0"
+	"fadeout" "1"
+	"fxtime" "0.25"
+	"holdtime" "3"
+	"message" "FLAG RESETS IN 5 SECONDS!"
+	"spawnflags" "1"
+	"targetname" "intel_msg_5s"
+	"x" "-1"
+	"y" "-0.60"
+	"origin" "-202.674 33.7246 737"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "5651844"
+	"classname" "game_text_tf"
+	"background" "0"
+	"display_to_team" "0"
+	"message" "Now playing: Manhack Arcade by Radiation Hazard"
+	"spawnflags" "0"
+	"targetname" "music_credits"
+	"origin" "-205.5 72 745"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "5651896"
+	"classname" "logic_auto"
+	"globalstate" "is_pc"
+	"spawnflags" "1"
+	connections
+	{
+		"OnMapSpawn" "music_credits,Display,,2.9,-1"
+		"OnMapSpawn" "music_credits,Display,,0,-1"
+		"OnMapSpawn" "music_credits,Display,,5.8,-1"
+	}
+	"origin" "-202 73 761"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
 cameras
 {
 	"activecamera" "1"
@@ -222955,8 +223050,8 @@ cameras
 	}
 	camera
 	{
-		"position" "[-10.6963 -54.7724 84.2982]"
-		"look" "[26.6792 104.592 -90.0116]"
+		"position" "[-172.525 66.1252 730.085]"
+		"look" "[-377.961 111.285 843.816]"
 	}
 	camera
 	{
