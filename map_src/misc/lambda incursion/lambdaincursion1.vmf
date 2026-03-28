@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "71"
+	"mapversion" "73"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -107,7 +107,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "71"
+	"mapversion" "73"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.3 from lambdaincursion1"
 	"detailmaterial" "detail/detailsprites"
@@ -386017,7 +386017,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"solidbsp" "0"
-	"spawnflags" "256"
+	"spawnflags" "258"
 	"spawnpos" "0"
 	"speed" "50"
 	"unlocked_sentence" "0"
@@ -693436,7 +693436,7 @@ entity
 entity
 {
 	"id" "545483"
-	"classname" "item_ammo_357"
+	"classname" "item_ammo_357_large"
 	"angles" "0 0 0"
 	"disableshadows" "0"
 	"fademaxdist" "0"
@@ -693456,8 +693456,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-2569.18 1015.5 191.201]"
-		"look" "[-2326.97 907.251 167.058]"
+		"position" "[-2462.63 960.65 201.148]"
+		"look" "[-2274.27 1144.58 160.393]"
 	}
 }
 cordons
