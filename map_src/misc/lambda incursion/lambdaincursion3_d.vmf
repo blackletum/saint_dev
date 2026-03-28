@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "18"
+	"mapversion" "24"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "18"
+	"mapversion" "24"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.3 from lambdaincursion3"
 	"detailmaterial" "detail/detailsprites"
@@ -247851,6 +247851,7 @@ entity
 		"_OnCreditsDone" "credits_menu,Command,startupmenu force,3,-1"
 		"OnCreditsDone" "credits_menu,Command,map_background background01,3,-1"
 		"OnCreditsDone" "credits_menu,Command,startupmenu force,3.1,-1"
+		"OnCreditsDone" "credits_menu,Command,cancelselect,3.2,-1"
 	}
 	"origin" "-1256 -1720 24"
 	editor
@@ -354469,7 +354470,7 @@ entity
 			{
 				"v" "170 1372 -0"
 				"v" "160 1384 -0"
-				"v" "159.99 1384.01 128"
+				"v" "160 1384.01 128"
 				"v" "170 1372 128"
 			}
 			"material" "TILE/TILEWALL006A"
@@ -403607,7 +403608,7 @@ entity
 		}
 		editor
 		{
-			"color" "255 0 0"
+			"color" "220 30 220"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -404140,13 +404141,61 @@ entity
 		"logicalpos" "[-15768 6500]"
 	}
 }
+entity
+{
+	"id" "304847"
+	"classname" "info_node"
+	"angles" "0 180 0"
+	"nodeid" "488"
+	"origin" "883.527 2523.56 144"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[7000 1000]"
+	}
+}
+entity
+{
+	"id" "304875"
+	"classname" "logic_auto"
+	"spawnflags" "1"
+	connections
+	{
+		"OnMapSpawn" "servercmd_disable_squad,Command,npc_citizen_auto_player_squad 0,1,-1"
+		"OnMapSpawn" "servercmd_disable_squad,Command,npc_citizen_auto_player_squad_allow_use 0,1,-1"
+	}
+	"origin" "1570 2558 1"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "304883"
+	"classname" "point_servercommand"
+	"targetname" "servercmd_disable_squad"
+	"origin" "1534 2554 1"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[172.314 2641.14 209.702]"
-		"look" "[76.5733 2887.95 180.008]"
+		"position" "[1636.71 2528.17 69.5335]"
+		"look" "[1385.29 2440.61 78.8302]"
 	}
 	camera
 	{
