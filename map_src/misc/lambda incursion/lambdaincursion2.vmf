@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "49"
+	"mapversion" "50"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -101,7 +101,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "49"
+	"mapversion" "50"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.3 from lambdaincursion2"
 	"detailmaterial" "detail/detailsprites"
@@ -428158,13 +428158,31 @@ entity
 		"logicalpos" "[0 0]"
 	}
 }
+entity
+{
+	"id" "460373"
+	"classname" "point_clientcommand"
+	"targetname" "crosshair_fix_map2"
+	connections
+	{
+		"OnMapSpawn" "crosshair_fix_map2,Command,crosshair 1,0,-1"
+	}
+	"origin" "-2873.21 5771.08 72"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-2333.77 4989.79 273.903]"
-		"look" "[-2104.02 4881.68 193.358]"
+		"position" "[-2877.26 5842.78 108.314]"
+		"look" "[-2866.42 5621.17 -39.0979]"
 	}
 }
 cordons
