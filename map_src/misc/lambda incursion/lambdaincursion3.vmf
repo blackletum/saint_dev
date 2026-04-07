@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "64"
+	"mapversion" "65"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "64"
+	"mapversion" "65"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"comment" "Decompiled by BSPSource v1.4.3 from lambdaincursion3"
@@ -208222,7 +208222,7 @@ entity
 	"origin" "864 1256 262"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -208244,7 +208244,7 @@ entity
 	"origin" "1480 2112 257.934"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1000]"
@@ -208289,7 +208289,7 @@ entity
 	"origin" "-114.026 298.01 245.934"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 2000]"
@@ -208356,7 +208356,7 @@ entity
 	"origin" "1252.59 911.747 125.036"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 3500]"
@@ -208400,7 +208400,7 @@ entity
 	"origin" "1183.75 1419.41 125.036"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 4500]"
@@ -208444,7 +208444,7 @@ entity
 	"origin" "976.589 1647.75 125.036"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 5500]"
@@ -208466,7 +208466,7 @@ entity
 	"origin" "1207.41 1975.94 229.934"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 6000]"
@@ -208511,7 +208511,7 @@ entity
 	"origin" "1140.59 2810.09 89.491"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 7000]"
@@ -208533,7 +208533,7 @@ entity
 	"origin" "1252.59 2146.09 89.491"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 7500]"
@@ -208555,7 +208555,7 @@ entity
 	"origin" "1252.59 1770.09 89.491"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 8000]"
@@ -208577,7 +208577,7 @@ entity
 	"origin" "1161.91 776.589 89.491"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 8500]"
@@ -208599,7 +208599,7 @@ entity
 	"origin" "683.411 504.07 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 9000]"
@@ -208621,7 +208621,7 @@ entity
 	"origin" "683.411 816.07 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 9500]"
@@ -208643,7 +208643,7 @@ entity
 	"origin" "683.411 1648.07 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 10000]"
@@ -208665,7 +208665,7 @@ entity
 	"origin" "683.411 2200.07 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 10500]"
@@ -208687,7 +208687,7 @@ entity
 	"origin" "-635.411 2183.93 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 11000]"
@@ -208709,7 +208709,7 @@ entity
 	"origin" "-635.411 1487.93 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 11500]"
@@ -208731,7 +208731,7 @@ entity
 	"origin" "-635.411 359.93 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12000]"
@@ -208753,7 +208753,7 @@ entity
 	"origin" "352 2288 198.396"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -208775,7 +208775,7 @@ entity
 	"origin" "-296 2288 198.396"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 13000]"
@@ -208797,7 +208797,7 @@ entity
 	"origin" "-1377.93 2227.23 89.934"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 13500]"
@@ -208842,7 +208842,7 @@ entity
 	"origin" "-903.93 2324.59 114.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 14500]"
@@ -208864,7 +208864,7 @@ entity
 	"origin" "1695.93 907.411 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 15000]"
@@ -208886,7 +208886,7 @@ entity
 	"origin" "1223.41 900.07 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 15500]"
@@ -208909,7 +208909,7 @@ entity
 	"origin" "1047.93 1755.41 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 16000]"
@@ -208932,7 +208932,7 @@ entity
 	"origin" "708.589 2063.93 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -16268]"
@@ -208954,7 +208954,7 @@ entity
 	"origin" "1592.26 2420.59 97.1028"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -15768]"
@@ -208976,7 +208976,7 @@ entity
 	"origin" "-445.93 2328.59 114.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -15268]"
@@ -208998,7 +208998,7 @@ entity
 	"origin" "1388.07 760.589 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -14768]"
@@ -209020,7 +209020,7 @@ entity
 	"origin" "1495.41 1788.07 274.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -14268]"
@@ -209042,7 +209042,7 @@ entity
 	"origin" "1568 1504 264"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -13768]"
@@ -209064,7 +209064,7 @@ entity
 	"origin" "520 2672 248"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -13268]"
@@ -209086,7 +209086,7 @@ entity
 	"origin" "96 2704 264"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -12768]"
@@ -209108,7 +209108,7 @@ entity
 	"origin" "-0.0700847 1819.41 138.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -12268]"
@@ -209130,7 +209130,7 @@ entity
 	"origin" "48.0701 344.59 138.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -11768]"
@@ -209152,7 +209152,7 @@ entity
 	"origin" "1888.26 2420.59 97.1028"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -11268]"
@@ -209167,7 +209167,7 @@ entity
 	"origin" "1960 2280 9"
 	editor
 	{
-		"color" "200 0 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -10268]"
@@ -209204,7 +209204,7 @@ entity
 	"origin" "-1240.59 -36.0602 397.934"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -8768]"
@@ -209249,7 +209249,7 @@ entity
 	"origin" "-740 248 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -7768]"
@@ -209271,7 +209271,7 @@ entity
 	"origin" "-680 -64.0001 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -7268]"
@@ -209293,7 +209293,7 @@ entity
 	"origin" "-288 336 198.396"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -6768]"
@@ -209315,7 +209315,7 @@ entity
 	"origin" "484 800 142"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -6268]"
@@ -209337,7 +209337,7 @@ entity
 	"origin" "-120 1232 198.396"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -5768]"
@@ -209359,7 +209359,7 @@ entity
 	"origin" "-400 1818 164.396"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -5268]"
@@ -209381,7 +209381,7 @@ entity
 	"origin" "-649.41 2407.93 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -4768]"
@@ -209403,7 +209403,7 @@ entity
 	"origin" "16 2571.41 100"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -4268]"
@@ -209494,7 +209494,7 @@ entity
 	"origin" "692 2567.41 104"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -2268]"
@@ -209517,7 +209517,7 @@ entity
 	"origin" "-1152 1280 632"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -1768]"
@@ -209563,7 +209563,7 @@ entity
 	"origin" "-1160 1080 632"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -768]"
@@ -209608,7 +209608,7 @@ entity
 	"origin" "928 2571.41 100"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 500]"
@@ -209630,7 +209630,7 @@ entity
 	"origin" "1760 2732 77.151"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 1000]"
@@ -209653,7 +209653,7 @@ entity
 	"origin" "1692 2832 85.151"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 1500]"
@@ -209725,7 +209725,7 @@ entity
 	"origin" "1780 3056 77.151"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 3000]"
@@ -209769,7 +209769,7 @@ entity
 	"origin" "904 1859.75 248"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 4000]"
@@ -209792,7 +209792,7 @@ entity
 	"origin" "1254.59 1364.09 89.491"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 4500]"
@@ -209814,7 +209814,7 @@ entity
 	"origin" "-698.01 -842.026 389.934"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 5000]"
@@ -209859,7 +209859,7 @@ entity
 	"origin" "104.07 -891.411 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 6000]"
@@ -209881,7 +209881,7 @@ entity
 	"origin" "-1160 -1804 107.411"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 6500]"
@@ -209941,7 +209941,7 @@ entity
 	"origin" "-1272 -1804 107.411"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 8000]"
@@ -210023,7 +210023,7 @@ entity
 	"origin" "1097.75 2571.41 287.036"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 10000]"
@@ -210045,7 +210045,7 @@ entity
 	"origin" "1493.41 1198.07 274.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 10500]"
@@ -210067,7 +210067,7 @@ entity
 	"origin" "-667.33 -584.536 369.934"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 11000]"
@@ -210112,7 +210112,7 @@ entity
 	"origin" "816 2656 264"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 12000]"
@@ -210134,7 +210134,7 @@ entity
 	"origin" "-1226.98 -689.97 93.934"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 12500]"
@@ -210179,7 +210179,7 @@ entity
 	"origin" "-807.93 -843.411 98.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 13500]"
@@ -210201,7 +210201,7 @@ entity
 	"origin" "-880.589 -599.93 98.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 14000]"
@@ -210223,7 +210223,7 @@ entity
 	"origin" "-76 -288 437.934"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 14500]"
@@ -210268,7 +210268,7 @@ entity
 	"origin" "90 -496 307.934"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 15500]"
@@ -210659,7 +210659,7 @@ entity
 	"origin" "-208 697.22 16"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "0 180 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 -6768]"
@@ -210678,7 +210678,7 @@ entity
 	"origin" "-201.104 688 16"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 -6268]"
@@ -212643,7 +212643,7 @@ entity
 	"origin" "748 1380 198.335"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1500 -13768]"
@@ -212706,7 +212706,7 @@ entity
 	"origin" "864 1256 263"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1500 -11768]"
@@ -212766,7 +212766,7 @@ entity
 	"origin" "834 1578 198.335"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1500 -10268]"
@@ -213045,7 +213045,7 @@ entity
 	"targetname" "sequence_lookout_retreat"
 	connections
 	{
-		"OnEndSequence" "combine_lookoutKill0-1"
+		"OnEndSequence" "combine_lookout,Kill,,0,-1"
 	}
 	"origin" "1976 2984 1.00001"
 	editor
@@ -213089,9 +213089,9 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnTrigger" "sound_prison_musicPlaySound0-1"
-		"OnTrigger" "timer_PA_announcerEnable0-1"
-		"OnTrigger" "script_conditions_targetoneEnable0-1"
+		"OnTrigger" "sound_prison_music,PlaySound,,0,-1"
+		"OnTrigger" "timer_PA_announcer,Enable,,0,-1"
+		"OnTrigger" "script_conditions_targetone,Enable,,0,-1"
 	}
 	solid
 	{
@@ -213400,7 +213400,7 @@ entity
 	"origin" "1448 2823.09 80"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2000 4000]"
@@ -216923,7 +216923,7 @@ entity
 	"targetname" "sequence_citizen_bars"
 	connections
 	{
-		"OnBeginSequence" "sound_freeman_greetPlaySound0-1"
+		"OnBeginSequence" "sound_freeman_greet,PlaySound,,0,-1"
 	}
 	"origin" "464 2608 145"
 	editor
@@ -216966,12 +216966,12 @@ entity
 	"targetname" "relay_citizen_talk"
 	connections
 	{
-		"OnTrigger" "sequence_citizen_barsBeginSequence0-1"
+		"OnTrigger" "sequence_citizen_bars,BeginSequence,,0,-1"
 	}
 	"origin" "525.995 2665.73 153"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2500 4500]"
@@ -217260,7 +217260,7 @@ entity
 	"origin" "182.495 2633.52 153"
 	editor
 	{
-		"color" "200 0 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2500 11500]"
@@ -217688,7 +217688,7 @@ entity
 	"origin" "144 1776 9"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2500 -10268]"
@@ -218091,8 +218091,8 @@ entity
 	"wait" "1"
 	connections
 	{
-		"OnTrigger" "sound_shieldPlaySound0-1"
-		"OnEndTouch" "sound_shieldStopSound0-1"
+		"OnTrigger" "sound_shield,PlaySound,,0,-1"
+		"OnEndTouch" "sound_shield,StopSound,,0,-1"
 	}
 	solid
 	{
@@ -218276,12 +218276,12 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnTrigger" "brush_shield_graphicEnable0-1"
-		"OnTrigger" "brush_player_blockEnable0-1"
-		"OnTrigger" "trigger_shield_soundEnable0-1"
-		"OnTrigger" "sound_shield_activatedPlaySound0-1"
-		"OnTrigger" "relay_phase_1Trigger0-1"
-		"OnTrigger" "relay_mounted_gunTrigger0-1"
+		"OnTrigger" "brush_shield_graphic,Enable,,0,-1"
+		"OnTrigger" "brush_player_block,Enable,,0,-1"
+		"OnTrigger" "trigger_shield_sound,Enable,,0,-1"
+		"OnTrigger" "sound_shield_activated,PlaySound,,0,-1"
+		"OnTrigger" "relay_phase_1,Trigger,,0,-1"
+		"OnTrigger" "relay_mounted_gun,Trigger,,0,-1"
 	}
 	solid
 	{
@@ -219177,17 +219177,17 @@ entity
 	"targetname" "relay_phase_3"
 	connections
 	{
-		"OnTrigger" "ai_goal_assault_leftflankActivate0.4-1"
-		"OnTrigger" "ai_goal_assault_leftflankBeginAssault0.8-1"
-		"OnTrigger" "template_left_flank_coverForceSpawn0-1"
-		"OnTrigger" "door_left_coverUnlock0-1"
-		"OnTrigger" "door_left_coverOpen0.1-1"
-		"OnTrigger" "combine_window_lookoutKill0-1"
+		"OnTrigger" "ai_goal_assault_leftflank,Activate,,0.4,-1"
+		"OnTrigger" "ai_goal_assault_leftflank,BeginAssault,,0.8,-1"
+		"OnTrigger" "template_left_flank_cover,ForceSpawn,,0,-1"
+		"OnTrigger" "door_left_cover,Unlock,,0,-1"
+		"OnTrigger" "door_left_cover,Open,,0.1,-1"
+		"OnTrigger" "combine_window_lookout,Kill,,0,-1"
 	}
 	"origin" "849.883 1432.17 161"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3000 -15268]"
@@ -219202,17 +219202,17 @@ entity
 	"targetname" "counter_sendtroops"
 	connections
 	{
-		"OnHitMax" "template_combine_jumpdownForceSpawn0-1"
-		"OnHitMax" "relationship_jumpdown_playerApplyRelationship0.1-1"
-		"OnHitMax" "relationship_jumpdown_playerRevertRelationship13-1"
-		"OnHitMax" "sequence_jumpdown_soldier_1BeginSequence1-1"
-		"OnHitMax" "sequence_jumpdown_soldier_2BeginSequence2-1"
-		"OnHitMax" "sequence_jumpdown_soldier_3BeginSequence3-1"
+		"OnHitMax" "template_combine_jumpdown,ForceSpawn,,0,-1"
+		"OnHitMax" "relationship_jumpdown_player,ApplyRelationship,,0.1,-1"
+		"OnHitMax" "relationship_jumpdown_player,RevertRelationship,,13,-1"
+		"OnHitMax" "sequence_jumpdown_soldier_1,BeginSequence,,1,-1"
+		"OnHitMax" "sequence_jumpdown_soldier_2,BeginSequence,,2,-1"
+		"OnHitMax" "sequence_jumpdown_soldier_3,BeginSequence,,3,-1"
 	}
 	"origin" "848 1431.02 184"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3000 -14768]"
@@ -219279,7 +219279,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_phase4_beginAdd10-1"
+		"OnDeath" "counter_phase4_begin,Add,1,0,-1"
 	}
 	"origin" "792.736 2064 141.444"
 	editor
@@ -219314,7 +219314,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_phase4_beginAdd10-1"
+		"OnDeath" "counter_phase4_begin,Add,1,0,-1"
 	}
 	"origin" "840 2025.98 141.444"
 	editor
@@ -219371,13 +219371,13 @@ entity
 	"targetname" "counter_phase4_begin"
 	connections
 	{
-		"OnHitMax" "relay_phase_4Trigger0-1"
-		"OnHitMax" "relay_move_sparkTrigger5-1"
+		"OnHitMax" "relay_phase_4,Trigger,,0,-1"
+		"OnHitMax" "relay_move_spark,Trigger,,5,-1"
 	}
 	"origin" "805.787 1944 240"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3000 -11268]"
@@ -219406,7 +219406,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_phase3Add10-1"
+		"OnDeath" "counter_phase3,Add,1,0,-1"
 	}
 	"origin" "-585.964 1104.9 145.596"
 	editor
@@ -219426,17 +219426,17 @@ entity
 	"targetname" "relay_phase_2"
 	connections
 	{
-		"OnTrigger" "template_right_flankForceSpawn0-1"
-		"OnTrigger" "ai_goal_assault_p2_rightflankActivate0.2-1"
-		"OnTrigger" "ai_goal_assault_p2_rightflankBeginAssault0.4-1"
-		"OnTrigger" "template_frontal_pontmenForceSpawn0-1"
-		"OnTrigger" "combine_frontal_assault_pointmanUpdateEnemyMemory!player10-1"
-		"OnTrigger" "sound_moveinPlaySound5-1"
+		"OnTrigger" "template_right_flank,ForceSpawn,,0,-1"
+		"OnTrigger" "ai_goal_assault_p2_rightflank,Activate,,0.2,-1"
+		"OnTrigger" "ai_goal_assault_p2_rightflank,BeginAssault,,0.4,-1"
+		"OnTrigger" "template_frontal_pontmen,ForceSpawn,,0,-1"
+		"OnTrigger" "combine_frontal_assault_pointman,UpdateEnemyMemory,!player,10,-1"
+		"OnTrigger" "sound_movein,PlaySound,,5,-1"
 	}
 	"origin" "-569 1122.72 180.579"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3000 -10268]"
@@ -219470,12 +219470,12 @@ entity
 	"targetname" "counter_phase3"
 	connections
 	{
-		"OnHitMax" "relay_phase_3Trigger5-1"
+		"OnHitMax" "relay_phase_3,Trigger,,5,-1"
 	}
 	"origin" "-569 1124.37 234.407"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3000 -9268]"
@@ -219523,7 +219523,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_phase3Add10-1"
+		"OnDeath" "counter_phase3,Add,1,0,-1"
 	}
 	"origin" "-594.331 1036.46 145.596"
 	editor
@@ -219689,7 +219689,7 @@ entity
 	"wakesquad" "0"
 	connections
 	{
-		"OnDeath" "counter_final_phaseAdd10-1"
+		"OnDeath" "counter_final_phase,Add,1,0,-1"
 	}
 	"origin" "-561.608 1314.98 148.368"
 	editor
@@ -219709,20 +219709,20 @@ entity
 	"targetname" "counter_phase4_crosswalk"
 	connections
 	{
-		"OnHitMax" "sequence_p4_jumper1BeginSequence2-1"
-		"OnHitMax" "template_p4_assaulterForceSpawn0-1"
-		"OnHitMax" "relationship_combine_p4_jumperApplyRelationship0.1-1"
-		"OnHitMax" "relationship_combine_p4_jumperRevertRelationship13-1"
-		"OnHitMax" "sequence_p4_jumperBeginSequence1-1"
-		"OnHitMax" "sequence_p4_jumper2BeginSequence3-1"
-		"OnHitMax" "sequence_p4_jumper3BeginSequence4-1"
-		"OnHitMax" "door_shower_walkwayUnlock0-1"
-		"OnHitMax" "door_shower_walkwayOpen0.1-1"
+		"OnHitMax" "sequence_p4_jumper1,BeginSequence,,2,-1"
+		"OnHitMax" "template_p4_assaulter,ForceSpawn,,0,-1"
+		"OnHitMax" "relationship_combine_p4_jumper,ApplyRelationship,,0.1,-1"
+		"OnHitMax" "relationship_combine_p4_jumper,RevertRelationship,,13,-1"
+		"OnHitMax" "sequence_p4_jumper,BeginSequence,,1,-1"
+		"OnHitMax" "sequence_p4_jumper2,BeginSequence,,3,-1"
+		"OnHitMax" "sequence_p4_jumper3,BeginSequence,,4,-1"
+		"OnHitMax" "door_shower_walkway,Unlock,,0,-1"
+		"OnHitMax" "door_shower_walkway,Open,,0.1,-1"
 	}
 	"origin" "-549.629 1319.28 214.807"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3000 -4268]"
@@ -219876,8 +219876,8 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_phase4_crosswalkAdd10-1"
-		"OnDeath" "counter_final_phaseAdd10-1"
+		"OnDeath" "counter_phase4_crosswalk,Add,1,0,-1"
+		"OnDeath" "counter_final_phase,Add,1,0,-1"
 	}
 	"origin" "-816 1266.54 148.01"
 	editor
@@ -219897,14 +219897,14 @@ entity
 	"targetname" "relay_phase_4"
 	connections
 	{
-		"OnTrigger" "ai_goal_assault_p4_coverActivate0.2-1"
-		"OnTrigger" "template_p4_coverForceSpawn0-1"
-		"OnTrigger" "ai_goal_assault_p4_coverBeginAssault0.4-1"
+		"OnTrigger" "ai_goal_assault_p4_cover,Activate,,0.2,-1"
+		"OnTrigger" "template_p4_cover,ForceSpawn,,0,-1"
+		"OnTrigger" "ai_goal_assault_p4_cover,BeginAssault,,0.4,-1"
 	}
 	"origin" "-769 1244.39 213.798"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3500 1000]"
@@ -220041,10 +220041,10 @@ entity
 	"wait" "5"
 	connections
 	{
-		"OnStartTouch" "relationship_bullseye_p3_coverApplyRelationship0.1-1"
-		"OnEndTouch" "relationship_bullseye_p3_coverRevertRelationship1-1"
-		"OnStartTouch" "relationship_bullseye_p4_coverApplyRelationship0.1-1"
-		"OnEndTouch" "relationship_bullseye_p4_coverRevertRelationship0.1-1"
+		"OnStartTouch" "relationship_bullseye_p3_cover,ApplyRelationship,,0.1,-1"
+		"OnEndTouch" "relationship_bullseye_p3_cover,RevertRelationship,,1,-1"
+		"OnStartTouch" "relationship_bullseye_p4_cover,ApplyRelationship,,0.1,-1"
+		"OnEndTouch" "relationship_bullseye_p4_cover,RevertRelationship,,0.1,-1"
 	}
 	solid
 	{
@@ -220285,8 +220285,8 @@ entity
 	"wait" "1"
 	connections
 	{
-		"OnStartTouch" "relationship_bullseye_p2_coverApplyRelationship0.1-1"
-		"OnEndTouch" "relationship_bullseye_p2_coverRevertRelationship0.1-1"
+		"OnStartTouch" "relationship_bullseye_p2_cover,ApplyRelationship,,0.1,-1"
+		"OnEndTouch" "relationship_bullseye_p2_cover,RevertRelationship,,0.1,-1"
 	}
 	solid
 	{
@@ -220816,12 +220816,12 @@ entity
 	"targetname" "timer_PA_announcer"
 	connections
 	{
-		"OnTimer" "counter_PA_announcerAdd10-1"
+		"OnTimer" "counter_PA_announcer,Add,1,0,-1"
 	}
 	"origin" "1446.68 2285.14 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3500 -15768]"
@@ -220836,13 +220836,13 @@ entity
 	"targetname" "counter_PA_announcer"
 	connections
 	{
-		"OutValue" "case_PA_announcerInValue0-1"
-		"OnHitMax" "counter_PA_announcerSetValue05-1"
+		"OutValue" "case_PA_announcer,InValue,,0,-1"
+		"OnHitMax" "counter_PA_announcer,SetValue,0,5,-1"
 	}
 	"origin" "1440 2288 32"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3500 -15268]"
@@ -220862,17 +220862,17 @@ entity
 	"targetname" "case_PA_announcer"
 	connections
 	{
-		"OnCase01" "cityvoice1PlaySound0-1"
-		"OnCase02" "cityvoice2PlaySound0-1"
-		"OnCase03" "cityvoice3PlaySound0-1"
-		"OnCase04" "cityvoice4PlaySound0-1"
-		"OnCase05" "cityvoice5PlaySound0-1"
-		"OnCase06" "cityvoice6PlaySound0-1"
+		"OnCase01" "cityvoice1,PlaySound,,0,-1"
+		"OnCase02" "cityvoice2,PlaySound,,0,-1"
+		"OnCase03" "cityvoice3,PlaySound,,0,-1"
+		"OnCase04" "cityvoice4,PlaySound,,0,-1"
+		"OnCase05" "cityvoice5,PlaySound,,0,-1"
+		"OnCase06" "cityvoice6,PlaySound,,0,-1"
 	}
 	"origin" "1440 2288 48"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3500 -14768]"
@@ -221059,16 +221059,16 @@ entity
 	"targetname" "relay_preview_combine"
 	connections
 	{
-		"OnTrigger" "sequence_preview_combine1BeginSequence1-1"
-		"OnTrigger" "template_preview_combineForceSpawn0-1"
-		"OnTrigger" "sequence_preview_combine2BeginSequence2-1"
-		"OnTrigger" "sequence_preview_combine3BeginSequence3-1"
-		"OnTrigger" "sequence_preview_combine4BeginSequence4-1"
+		"OnTrigger" "sequence_preview_combine1,BeginSequence,,1,-1"
+		"OnTrigger" "template_preview_combine,ForceSpawn,,0,-1"
+		"OnTrigger" "sequence_preview_combine2,BeginSequence,,2,-1"
+		"OnTrigger" "sequence_preview_combine3,BeginSequence,,3,-1"
+		"OnTrigger" "sequence_preview_combine4,BeginSequence,,4,-1"
 	}
 	"origin" "1688.33 839.337 153"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3500 -10768]"
@@ -221085,7 +221085,7 @@ entity
 	"targetname" "sequence_preview_combine1"
 	connections
 	{
-		"OnEndSequence" "combine_previewKill10-1"
+		"OnEndSequence" "combine_preview,Kill,,10,-1"
 	}
 	"origin" "1173.91 993.803 145"
 	editor
@@ -221350,7 +221350,7 @@ entity
 	"wait" "1"
 	connections
 	{
-		"OnStartTouchAll" "combine_previewKill0-1"
+		"OnStartTouchAll" "combine_preview,Kill,,0,-1"
 	}
 	solid
 	{
@@ -221489,7 +221489,7 @@ entity
 	"origin" "1167.46 916.842 153"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3500 -2768]"
@@ -221506,7 +221506,7 @@ entity
 	"targetname" "sequence_preview_combine2"
 	connections
 	{
-		"OnEndSequence" "combine_previewKill10-1"
+		"OnEndSequence" "combine_preview,Kill,,10,-1"
 	}
 	"origin" "1096 992 145"
 	editor
@@ -221528,7 +221528,7 @@ entity
 	"targetname" "sequence_preview_combine3"
 	connections
 	{
-		"OnEndSequence" "combine_previewKill10-1"
+		"OnEndSequence" "combine_preview,Kill,,10,-1"
 	}
 	"origin" "1168 1040 145"
 	editor
@@ -221550,7 +221550,7 @@ entity
 	"targetname" "sequence_preview_combine4"
 	connections
 	{
-		"OnEndSequence" "combine_previewKill10-1"
+		"OnEndSequence" "combine_preview,Kill,,10,-1"
 	}
 	"origin" "1096 1040 145"
 	editor
@@ -221570,7 +221570,7 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnTrigger" "relay_preview_combineTrigger0-1"
+		"OnTrigger" "relay_preview_combine,Trigger,,0,-1"
 	}
 	solid
 	{
@@ -222052,8 +222052,8 @@ entity
 	"wait" "1"
 	connections
 	{
-		"OnStartTouch" "sound_shield1_loopPlaySound0.1-1"
-		"OnEndTouch" "sound_shield1_loopStopSound0.1-1"
+		"OnStartTouch" "sound_shield1_loop,PlaySound,,0.1,-1"
+		"OnEndTouch" "sound_shield1_loop,StopSound,,0.1,-1"
 	}
 	solid
 	{
@@ -222214,17 +222214,17 @@ entity
 	"targetname" "relay_shield1_turnoff"
 	connections
 	{
-		"OnTrigger" "trigger_shield1_soundDisable0-1"
-		"OnTrigger" "brush_shield1_blockplayerDisable0-1"
-		"OnTrigger" "brush_shield_textureDisable0-1"
-		"OnTrigger" "prop_shield1_leftSkin10-1"
-		"OnTrigger" "prop_shield1_rightSkin10-1"
-		"OnTrigger" "sound_shield1_offPlaySound0-1"
+		"OnTrigger" "trigger_shield1_sound,Disable,,0,-1"
+		"OnTrigger" "brush_shield1_blockplayer,Disable,,0,-1"
+		"OnTrigger" "brush_shield_texture,Disable,,0,-1"
+		"OnTrigger" "prop_shield1_left,Skin,1,0,-1"
+		"OnTrigger" "prop_shield1_right,Skin,1,0,-1"
+		"OnTrigger" "sound_shield1_off,PlaySound,,0,-1"
 	}
 	"origin" "1359.61 2284.08 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[4000 3000]"
@@ -222281,10 +222281,10 @@ entity
 	"wait" "-1"
 	connections
 	{
-		"OnPressed" "relay_shield1_turnoffTrigger0-1"
-		"OnPressed" "prop_button_shield2SetAnimationpress0-1"
-		"OnPressed" "sprite_shield_offShowSprite0-1"
-		"OnPressed" "sprite_red_shieldHideSprite0-1"
+		"OnPressed" "relay_shield1_turnoff,Trigger,,0,-1"
+		"OnPressed" "prop_button_shield2,SetAnimation,press,0,-1"
+		"OnPressed" "sprite_shield_off,ShowSprite,,0,-1"
+		"OnPressed" "sprite_red_shield,HideSprite,,0,-1"
 	}
 	solid
 	{
@@ -223130,13 +223130,13 @@ entity
 	"targetname" "relay_laundry_scanner"
 	connections
 	{
-		"OnTrigger" "template_laundry_scannerForceSpawn0.1-1"
-		"OnTrigger" "scanner_laundryUpdateEnemyMemory!player0-1"
+		"OnTrigger" "template_laundry_scanner,ForceSpawn,,0.1,-1"
+		"OnTrigger" "scanner_laundry,UpdateEnemyMemory,!player,0,-1"
 	}
 	"origin" "1081.49 1881 357.741"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[4000 -10768]"
@@ -223384,12 +223384,12 @@ entity
 	"targetname" "counter_laundry_scanners"
 	connections
 	{
-		"OnHitMax" "relay_laundry_scannerTrigger0-1"
+		"OnHitMax" "relay_laundry_scanner,Trigger,,0,-1"
 	}
 	"origin" "1082.22 1881 336.669"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[4000 -3268]"
@@ -223734,7 +223734,7 @@ entity
 	"origin" "133.727 1192 8"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "0 180 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[4500 4500]"
@@ -223753,7 +223753,7 @@ entity
 	"origin" "140.623 1192 32"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[4500 5000]"
@@ -224592,17 +224592,17 @@ entity
 	"targetname" "relay_combine_preview_first"
 	connections
 	{
-		"OnTrigger" "template_combine_preview_firstForceSpawn0-1"
-		"OnTrigger" "sequence_firstpreview_1BeginSequence1-1"
-		"OnTrigger" "sequence_firstpreview_2BeginSequence2-1"
-		"OnTrigger" "sequence_firstpreview_3BeginSequence3-1"
-		"OnTrigger" "sequence_firstpreview_4BeginSequence4-1"
-		"OnTrigger" "combine_preview_firstKill10-1"
+		"OnTrigger" "template_combine_preview_first,ForceSpawn,,0,-1"
+		"OnTrigger" "sequence_firstpreview_1,BeginSequence,,1,-1"
+		"OnTrigger" "sequence_firstpreview_2,BeginSequence,,2,-1"
+		"OnTrigger" "sequence_firstpreview_3,BeginSequence,,3,-1"
+		"OnTrigger" "sequence_firstpreview_4,BeginSequence,,4,-1"
+		"OnTrigger" "combine_preview_first,Kill,,10,-1"
 	}
 	"origin" "-640 2819.99 188"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[4500 -1768]"
@@ -224934,7 +224934,7 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnTrigger" "relay_balcony_siegeTrigger0-1"
+		"OnTrigger" "relay_balcony_siege,Trigger,,0,-1"
 	}
 	solid
 	{
@@ -225110,8 +225110,8 @@ entity
 	"targetname" "script_conditions_targetone"
 	connections
 	{
-		"OnConditionsSatisfied" "sound_targetonePlaySound0-1"
-		"OnConditionsSatisfied" "sequence_lookout_retreatBeginSequence2-1"
+		"OnConditionsSatisfied" "sound_targetone,PlaySound,,0,-1"
+		"OnConditionsSatisfied" "sequence_lookout_retreat,BeginSequence,,2,-1"
 	}
 	"origin" "1300.78 2579 55.416"
 	editor
@@ -225894,17 +225894,17 @@ entity
 	"targetname" "relay_combine_preview_final"
 	connections
 	{
-		"OnTrigger" "template_preview_finalForceSpawn0-1"
-		"OnTrigger" "sequence_preview_final1BeginSequence1-1"
-		"OnTrigger" "sequence_preview_final2BeginSequence2-1"
-		"OnTrigger" "sequence_preview_final3BeginSequence3-1"
-		"OnTrigger" "sequence_preview_final4BeginSequence4-1"
-		"OnTrigger" "combine_preview_finalKill10-1"
+		"OnTrigger" "template_preview_final,ForceSpawn,,0,-1"
+		"OnTrigger" "sequence_preview_final1,BeginSequence,,1,-1"
+		"OnTrigger" "sequence_preview_final2,BeginSequence,,2,-1"
+		"OnTrigger" "sequence_preview_final3,BeginSequence,,3,-1"
+		"OnTrigger" "sequence_preview_final4,BeginSequence,,4,-1"
+		"OnTrigger" "combine_preview_final,Kill,,10,-1"
 	}
 	"origin" "-528 2000 176"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5000 13500]"
@@ -226010,10 +226010,10 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnTrigger" "relay_combine_preview_finalTrigger1-1"
-		"OnTrigger" "timer_PA_announcerKill0-1"
-		"OnTrigger" "relay_scan_bathTrigger0-1"
-		"OnTrigger" "relay_Combine_chatterTrigger0-1"
+		"OnTrigger" "relay_combine_preview_final,Trigger,,1,-1"
+		"OnTrigger" "timer_PA_announcer,Kill,,0,-1"
+		"OnTrigger" "relay_scan_bath,Trigger,,0,-1"
+		"OnTrigger" "relay_Combine_chatter,Trigger,,0,-1"
 	}
 	solid
 	{
@@ -226180,17 +226180,17 @@ entity
 	"targetname" "relay_phase_1"
 	connections
 	{
-		"OnTrigger" "template_frontal_coverForceSpawn0-1"
-		"OnTrigger" "ai_goal_p1_frontalActivate0.5-1"
-		"OnTrigger" "ai_goal_p1_frontalBeginAssault1-1"
-		"OnTrigger" "relationship_combine_bullseye_doorwayApplyRelationship2-1"
-		"OnTrigger" "relay_phase_2Trigger5-1"
-		"OnTrigger" "sound_music_loopingPlaySound0-1"
+		"OnTrigger" "template_frontal_cover,ForceSpawn,,0,-1"
+		"OnTrigger" "ai_goal_p1_frontal,Activate,,0.5,-1"
+		"OnTrigger" "ai_goal_p1_frontal,BeginAssault,,1,-1"
+		"OnTrigger" "relationship_combine_bullseye_doorway,ApplyRelationship,,2,-1"
+		"OnTrigger" "relay_phase_2,Trigger,,5,-1"
+		"OnTrigger" "sound_music_looping,PlaySound,,0,-1"
 	}
 	"origin" "-432 -720 16"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5000 -15268]"
@@ -226281,7 +226281,7 @@ entity
 	"Template01" "combine_frontal_assault_pointman"
 	connections
 	{
-		"OnEntitySpawned" "schedule_frontal_assault_pointmenStartSchedule0.1-1"
+		"OnEntitySpawned" "schedule_frontal_assault_pointmen,StartSchedule,,0.1,-1"
 	}
 	"origin" "-622.294 -774.19 21.001"
 	editor
@@ -226336,7 +226336,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_phase3Add10-1"
+		"OnDeath" "counter_phase3,Add,1,0,-1"
 	}
 	"origin" "-580.925 -781.71 13.001"
 	editor
@@ -226372,14 +226372,14 @@ entity
 	"targetname" "relay_mounted_gun"
 	connections
 	{
-		"OnTrigger" "barricade_gun_tankFindNPCToManTankcombine_gunuser1-1"
-		"OnTrigger" "template_combine_gunuserForceSpawn0-1"
-		"OnTrigger" "relationship_mgApplyRelationship2-1"
+		"OnTrigger" "barricade_gun_tank,FindNPCToManTank,combine_gunuser,1,-1"
+		"OnTrigger" "template_combine_gunuser,ForceSpawn,,0,-1"
+		"OnTrigger" "relationship_mg,ApplyRelationship,,2,-1"
 	}
 	"origin" "-601.437 -831.53 153"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5000 -10768]"
@@ -226559,15 +226559,15 @@ entity
 	"spawnflags" "1"
 	connections
 	{
-		"OnMapSpawn" "barricade_gun_model_spriteglowSetParentAttachmentmuzzle0-1"
-		"OnMapSpawn" "barricade_gun_model_sprite_spotlightSetParentAttachmentmuzzle0-1"
-		"OnMapSpawn" "barricade_gun_model_spriteglowHideSprite0-1"
-		"OnMapSpawn" "barricade_gun_model_sprite_spotlightLightOff0-1"
+		"OnMapSpawn" "barricade_gun_model_spriteglow,SetParentAttachment,muzzle,0,-1"
+		"OnMapSpawn" "barricade_gun_model_sprite_spotlight,SetParentAttachment,muzzle,0,-1"
+		"OnMapSpawn" "barricade_gun_model_spriteglow,HideSprite,,0,-1"
+		"OnMapSpawn" "barricade_gun_model_sprite_spotlight,LightOff,,0,-1"
 	}
 	"origin" "103.796 -878.41 148.5"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5000 -9268]"
@@ -226641,26 +226641,26 @@ entity
 	"yawtolerance" "15"
 	connections
 	{
-		"OnFire" "barricade_gun_modelSetAnimationfire0-1"
-		"OnGotController" "barricade_gun_modelSetAnimationActivate0-1"
-		"OnGotPlayerController" "barricade_gun_modelSetAnimationActivate0-1"
-		"OnGotController" "barricade_gun_modelSetDefaultAnimationidle0.1-1"
-		"OnLostController" "barricade_gun_modelSetAnimationRetract0-1"
-		"OnLostController" "barricade_gun_modelSetDefaultAnimationidle_inactive0.1-1"
-		"OnLostPlayerController" "barricade_gun_modelSetAnimationRetract0-1"
-		"OnLostPlayerController" "barricade_gun_modelSetDefaultAnimationidle_inactive0.1-1"
-		"OnGotPlayerController" "barricade_gun_modelSetDefaultAnimationidle0.1-1"
-		"OnGotController" "barricade_gun_model_sprite_spotlightLightOn0.15-1"
-		"OnGotController" "barricade_gun_model_spriteglowShowSprite0.2-1"
-		"OnGotPlayerController" "barricade_gun_model_spriteglowShowSprite0.2-1"
-		"OnGotPlayerController" "barricade_gun_model_sprite_spotlightLightOn0.15-1"
-		"OnLostController" "barricade_gun_model_sprite_spotlightLightOff0.15-1"
-		"OnLostController" "barricade_gun_model_spriteglowHideSprite0.1-1"
-		"OnLostController" "barricade_gun_model_sprite_spotlightLightOff0.05-1"
-		"OnLostController" "barricade_gun_model_spriteglowHideSprite0.1-1"
-		"OnLostPlayerController" "barricade_gun_model_sprite_spotlightLightOff0.05-1"
-		"OnLostPlayerController" "barricade_gun_model_spriteglowHideSprite0.1-1"
-		"OnLostController" "barricade_gun_tankFindNPCToManTank0-1"
+		"OnFire" "barricade_gun_model,SetAnimation,fire,0,-1"
+		"OnGotController" "barricade_gun_model,SetAnimation,Activate,0,-1"
+		"OnGotPlayerController" "barricade_gun_model,SetAnimation,Activate,0,-1"
+		"OnGotController" "barricade_gun_model,SetDefaultAnimation,idle,0.1,-1"
+		"OnLostController" "barricade_gun_model,SetAnimation,Retract,0,-1"
+		"OnLostController" "barricade_gun_model,SetDefaultAnimation,idle_inactive,0.1,-1"
+		"OnLostPlayerController" "barricade_gun_model,SetAnimation,Retract,0,-1"
+		"OnLostPlayerController" "barricade_gun_model,SetDefaultAnimation,idle_inactive,0.1,-1"
+		"OnGotPlayerController" "barricade_gun_model,SetDefaultAnimation,idle,0.1,-1"
+		"OnGotController" "barricade_gun_model_sprite_spotlight,LightOn,,0.15,-1"
+		"OnGotController" "barricade_gun_model_spriteglow,ShowSprite,,0.2,-1"
+		"OnGotPlayerController" "barricade_gun_model_spriteglow,ShowSprite,,0.2,-1"
+		"OnGotPlayerController" "barricade_gun_model_sprite_spotlight,LightOn,,0.15,-1"
+		"OnLostController" "barricade_gun_model_sprite_spotlight,LightOff,,0.15,-1"
+		"OnLostController" "barricade_gun_model_spriteglow,HideSprite,,0.1,-1"
+		"OnLostController" "barricade_gun_model_sprite_spotlight,LightOff,,0.05,-1"
+		"OnLostController" "barricade_gun_model_spriteglow,HideSprite,,0.1,-1"
+		"OnLostPlayerController" "barricade_gun_model_sprite_spotlight,LightOff,,0.05,-1"
+		"OnLostPlayerController" "barricade_gun_model_spriteglow,HideSprite,,0.1,-1"
+		"OnLostController" "barricade_gun_tank,FindNPCToManTank,,0,-1"
 	}
 	solid
 	{
@@ -227051,7 +227051,7 @@ entity
 	"origin" "-1125.72 -1001.82 9"
 	editor
 	{
-		"color" "200 0 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5000 -1268]"
@@ -227165,7 +227165,7 @@ entity
 	"targetname" "sc_window"
 	connections
 	{
-		"OnConditionsSatisfied" "sound_windowPlaySound0-1"
+		"OnConditionsSatisfied" "sound_window,PlaySound,,0,-1"
 	}
 	"origin" "965 1305.45 205.397"
 	editor
@@ -227224,7 +227224,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_victory_musicAdd10-1"
+		"OnDeath" "counter_victory_music,Add,1,0,-1"
 	}
 	"origin" "121.362 2127.5 1"
 	editor
@@ -227243,13 +227243,13 @@ entity
 	"targetname" "relay_combine_final_breach"
 	connections
 	{
-		"OnTrigger" "template_final_breachForceSpawn0-1"
-		"OnTrigger" "combine_final_breachUpdateEnemyMemory!player1-1"
+		"OnTrigger" "template_final_breach,ForceSpawn,,0,-1"
+		"OnTrigger" "combine_final_breach,UpdateEnemyMemory,!player,1,-1"
 	}
 	"origin" "159.05 2172.44 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5500 3000]"
@@ -227299,7 +227299,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_victory_musicAdd10-1"
+		"OnDeath" "counter_victory_music,Add,1,0,-1"
 	}
 	"origin" "140 2088 1"
 	editor
@@ -227334,7 +227334,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_victory_musicAdd10-1"
+		"OnDeath" "counter_victory_music,Add,1,0,-1"
 	}
 	"origin" "168 2052 1"
 	editor
@@ -227733,8 +227733,8 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_sendtroopsAdd10-1"
-		"OnDeath" "counter_phase4_beginAdd11-1"
+		"OnDeath" "counter_sendtroops,Add,1,0,-1"
+		"OnDeath" "counter_phase4_begin,Add,1,1,-1"
 	}
 	"origin" "836 1344 153"
 	editor
@@ -227754,7 +227754,7 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnTrigger" "sc_windowEnable0-1"
+		"OnTrigger" "sc_window,Enable,,0,-1"
 	}
 	solid
 	{
@@ -228315,21 +228315,21 @@ entity
 	"targetname" "relay_shower_explode"
 	connections
 	{
-		"OnTrigger" "button_showerKill0-1"
-		"OnTrigger" "conver_door_leftConvertTarget4.5-1"
-		"OnTrigger" "conver_door_rightConvertTarget4.5-1"
-		"OnTrigger" "physexplode_door_leftExplode5-1"
-		"OnTrigger" "physexplode_door_rightExplode5-1"
-		"OnTrigger" "shower_door_ar2Explode5-1"
-		"OnTrigger" "shake_showerStartShake5.07-1"
-		"OnTrigger" "explosion_showerExplode5.07-1"
-		"OnTrigger" "relay_combine_final_breachTrigger4.5-1"
-		"OnTrigger" "counter_phase4_crosswalkKill0-1"
+		"OnTrigger" "button_shower,Kill,,0,-1"
+		"OnTrigger" "conver_door_left,ConvertTarget,,4.5,-1"
+		"OnTrigger" "conver_door_right,ConvertTarget,,4.5,-1"
+		"OnTrigger" "physexplode_door_left,Explode,,5,-1"
+		"OnTrigger" "physexplode_door_right,Explode,,5,-1"
+		"OnTrigger" "shower_door_ar2,Explode,,5,-1"
+		"OnTrigger" "shake_shower,StartShake,,5.07,-1"
+		"OnTrigger" "explosion_shower,Explode,,5.07,-1"
+		"OnTrigger" "relay_combine_final_breach,Trigger,,4.5,-1"
+		"OnTrigger" "counter_phase4_crosswalk,Kill,,0,-1"
 	}
 	"origin" "9.60793 1792.92 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5500 -9768]"
@@ -228345,7 +228345,7 @@ entity
 	"origin" "34.9009 1837 61.0573"
 	editor
 	{
-		"color" "128 128 128"
+		"color" "0 0 255"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5500 -9268]"
@@ -228361,7 +228361,7 @@ entity
 	"origin" "-30.9221 1837 60.6026"
 	editor
 	{
-		"color" "128 128 128"
+		"color" "0 0 255"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5500 -8768]"
@@ -228379,7 +228379,7 @@ entity
 	"origin" "31.9999 1837 32"
 	editor
 	{
-		"color" "128 128 128"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5500 -8268]"
@@ -228397,7 +228397,7 @@ entity
 	"origin" "31.9999 1837 84"
 	editor
 	{
-		"color" "128 128 128"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5500 -7768]"
@@ -228415,7 +228415,7 @@ entity
 	"origin" "-32.1581 1837 84.2381"
 	editor
 	{
-		"color" "128 128 128"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5500 -7268]"
@@ -228433,7 +228433,7 @@ entity
 	"origin" "-32.0001 1837 40"
 	editor
 	{
-		"color" "128 128 128"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5500 -6768]"
@@ -228452,7 +228452,7 @@ entity
 	"origin" "-4.48106 1811.05 9"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5500 -6268]"
@@ -228472,7 +228472,7 @@ entity
 	"origin" "-3.55708 1815 74.9032"
 	editor
 	{
-		"color" "200 0 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[5500 -5768]"
@@ -228658,8 +228658,8 @@ entity
 	"wait" "1"
 	connections
 	{
-		"OnStartTouch" "relationship_p4_area2ApplyRelationship0.2-1"
-		"OnEndTouch" "relationship_p4_area2RevertRelationship0.1-1"
+		"OnStartTouch" "relationship_p4_area2,ApplyRelationship,,0.2,-1"
+		"OnEndTouch" "relationship_p4_area2,RevertRelationship,,0.1,-1"
 	}
 	solid
 	{
@@ -229001,7 +229001,7 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnTrigger" "door_securityUnlock0-1"
+		"OnTrigger" "door_security,Unlock,,0,-1"
 	}
 	solid
 	{
@@ -229528,8 +229528,8 @@ entity
 	"wait" "1"
 	connections
 	{
-		"OnStartTouch" "relationship_p4_area2ApplyRelationship0.2-1"
-		"OnEndTouch" "relationship_p4_area2RevertRelationship0.1-1"
+		"OnStartTouch" "relationship_p4_area2,ApplyRelationship,,0.2,-1"
+		"OnEndTouch" "relationship_p4_area2,RevertRelationship,,0.1,-1"
 	}
 	solid
 	{
@@ -229668,8 +229668,8 @@ entity
 	"wait" "1"
 	connections
 	{
-		"OnStartTouch" "relationsjip_left_rear_blindfireApplyRelationship0.1-1"
-		"OnEndTouch" "relationsjip_left_rear_blindfireRevertRelationship0.1-1"
+		"OnStartTouch" "relationsjip_left_rear_blindfire,ApplyRelationship,,0.1,-1"
+		"OnEndTouch" "relationsjip_left_rear_blindfire,RevertRelationship,,0.1,-1"
 	}
 	solid
 	{
@@ -229911,8 +229911,8 @@ entity
 	"wait" "1"
 	connections
 	{
-		"OnStartTouch" "relationship_leftrearcombine_frontApplyRelationship0.1-1"
-		"OnEndTouch" "relationship_leftrearcombine_frontRevertToDefaultRelationship0.1-1"
+		"OnStartTouch" "relationship_leftrearcombine_front,ApplyRelationship,,0.1,-1"
+		"OnEndTouch" "relationship_leftrearcombine_front,RevertToDefaultRelationship,,0.1,-1"
 	}
 	solid
 	{
@@ -230494,7 +230494,7 @@ entity
 	"targetname" "skylight1"
 	connections
 	{
-		"OnBreak" "0-1"
+		"OnBreak" ",,,0,-1"
 	}
 	solid
 	{
@@ -230769,7 +230769,7 @@ entity
 	"targetname" "skylight2"
 	connections
 	{
-		"OnBreak" "shooter_skylight2Shoot0-1"
+		"OnBreak" "shooter_skylight2,Shoot,,0,-1"
 	}
 	solid
 	{
@@ -231044,7 +231044,7 @@ entity
 	"targetname" "skylight3"
 	connections
 	{
-		"OnBreak" "shooter_skylight3Shoot0-1"
+		"OnBreak" "shooter_skylight3,Shoot,,0,-1"
 	}
 	solid
 	{
@@ -231555,7 +231555,7 @@ entity
 	"targetname" "skylight4"
 	connections
 	{
-		"OnBreak" "shooter_skylight4Shoot0-1"
+		"OnBreak" "shooter_skylight4,Shoot,,0,-1"
 	}
 	solid
 	{
@@ -231830,7 +231830,7 @@ entity
 	"targetname" "skylight5"
 	connections
 	{
-		"OnBreak" "shooter_skylight5Shoot0-1"
+		"OnBreak" "shooter_skylight5,Shoot,,0,-1"
 	}
 	solid
 	{
@@ -232341,7 +232341,7 @@ entity
 	"targetname" "skylight6"
 	connections
 	{
-		"OnBreak" "shooter_skylight6Shoot0-1"
+		"OnBreak" "shooter_skylight6,Shoot,,0,-1"
 	}
 	solid
 	{
@@ -232616,7 +232616,7 @@ entity
 	"targetname" "skylight7"
 	connections
 	{
-		"OnBreak" "shooter_skylight7Shoot0-1"
+		"OnBreak" "shooter_skylight7,Shoot,,0,-1"
 	}
 	solid
 	{
@@ -232891,7 +232891,7 @@ entity
 	"targetname" "skylight8"
 	connections
 	{
-		"OnBreak" "shooter_skylight8Shoot0-1"
+		"OnBreak" "shooter_skylight8,Shoot,,0,-1"
 	}
 	solid
 	{
@@ -233166,7 +233166,7 @@ entity
 	"targetname" "skylight9"
 	connections
 	{
-		"OnBreak" "shooter_skylight9Shoot0-1"
+		"OnBreak" "shooter_skylight9,Shoot,,0,-1"
 	}
 	solid
 	{
@@ -233441,7 +233441,7 @@ entity
 	"targetname" "skylight10"
 	connections
 	{
-		"OnBreak" "shooter_skylight10Shoot0-1"
+		"OnBreak" "shooter_skylight10,Shoot,,0,-1"
 	}
 	solid
 	{
@@ -233716,7 +233716,7 @@ entity
 	"targetname" "skylight11"
 	connections
 	{
-		"OnBreak" "shooter_skylight11Shoot0-1"
+		"OnBreak" "shooter_skylight11,Shoot,,0,-1"
 	}
 	solid
 	{
@@ -233991,7 +233991,7 @@ entity
 	"targetname" "skylight12"
 	connections
 	{
-		"OnBreak" "shooter_skylight12Shoot0-1"
+		"OnBreak" "shooter_skylight12,Shoot,,0,-1"
 	}
 	solid
 	{
@@ -234273,14 +234273,14 @@ entity
 	"targetname" "relay_manhacks"
 	connections
 	{
-		"OnTrigger" "skylight_manhackBreak0-1"
-		"OnTrigger" "template_manhackForceSpawn0-1"
-		"OnTrigger" "manhack1UpdateEnemyMemory!player0.1-1"
+		"OnTrigger" "skylight_manhack,Break,,0,-1"
+		"OnTrigger" "template_manhack,ForceSpawn,,0,-1"
+		"OnTrigger" "manhack1,UpdateEnemyMemory,!player,0.1,-1"
 	}
 	"origin" "1334.21 1997.63 649"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[6000 -8768]"
@@ -234663,7 +234663,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_attentionAdd10-1"
+		"OnDeath" "counter_attention,Add,1,0,-1"
 	}
 	"origin" "-1197.39 2214.57 1"
 	editor
@@ -234697,7 +234697,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_attentionAdd10-1"
+		"OnDeath" "counter_attention,Add,1,0,-1"
 	}
 	"origin" "-1200 2160 1"
 	editor
@@ -234752,7 +234752,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_attentionAdd10-1"
+		"OnDeath" "counter_attention,Add,1,0,-1"
 	}
 	"origin" "-1241.52 2173.79 1"
 	editor
@@ -234787,7 +234787,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_attentionAdd10-1"
+		"OnDeath" "counter_attention,Add,1,0,-1"
 	}
 	"origin" "-1280 2160 1"
 	editor
@@ -234807,15 +234807,15 @@ entity
 	"targetname" "relay_hallway_combine"
 	connections
 	{
-		"OnTrigger" "template_shield_soldiersForceSpawn0-1"
-		"OnTrigger" "ai_goal_assault_shieldActivate1-1"
-		"OnTrigger" "ai_goal_assault_shieldBeginAssault1.2-1"
-		"OnTrigger" "combine_shield_assaulterUpdateEnemyMemory!player0.1-1"
+		"OnTrigger" "template_shield_soldiers,ForceSpawn,,0,-1"
+		"OnTrigger" "ai_goal_assault_shield,Activate,,1,-1"
+		"OnTrigger" "ai_goal_assault_shield,BeginAssault,,1.2,-1"
+		"OnTrigger" "combine_shield_assaulter,UpdateEnemyMemory,!player,0.1,-1"
 	}
 	"origin" "-1232 2240 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[6000 -3268]"
@@ -235199,7 +235199,7 @@ entity
 	"origin" "1930.09 3064 89.491"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[6500 9000]"
@@ -235507,8 +235507,8 @@ entity
 	"wait" "1"
 	connections
 	{
-		"OnStartTouch" "sound_shield1_loopPlaySound0.01-1"
-		"OnEndTouch" "sound_shield1_loopStopSound0.01-1"
+		"OnStartTouch" "sound_shield1_loop,PlaySound,,0.01,-1"
+		"OnEndTouch" "sound_shield1_loop,StopSound,,0.01,-1"
 	}
 	solid
 	{
@@ -235645,15 +235645,15 @@ entity
 	"targetname" "relay_balcony_siege"
 	connections
 	{
-		"OnTrigger" "template_walkway_siegeForceSpawn0-1"
-		"OnTrigger" "aigoalassault_balconyActivate0.1-1"
-		"OnTrigger" "aigoalassault_balconyBeginAssault0.2-1"
-		"OnTrigger" "relay_combine_preview_firstTrigger0-1"
+		"OnTrigger" "template_walkway_siege,ForceSpawn,,0,-1"
+		"OnTrigger" "aigoalassault_balcony,Activate,,0.1,-1"
+		"OnTrigger" "aigoalassault_balcony,BeginAssault,,0.2,-1"
+		"OnTrigger" "relay_combine_preview_first,Trigger,,0,-1"
 	}
 	"origin" "-568 2672 153"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[6500 11000]"
@@ -235681,7 +235681,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_hallwayAdd10-1"
+		"OnDeath" "counter_hallway,Add,1,0,-1"
 	}
 	"origin" "-562.229 2643.08 145"
 	editor
@@ -235732,7 +235732,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_hallwayAdd10-1"
+		"OnDeath" "counter_hallway,Add,1,0,-1"
 	}
 	"origin" "-608 2680 145"
 	editor
@@ -236440,12 +236440,12 @@ entity
 	"targetname" "counter_hallway"
 	connections
 	{
-		"OnHitMax" "relay_hallway_combineTrigger0-1"
+		"OnHitMax" "relay_hallway_combine,Trigger,,0,-1"
 	}
 	"origin" "-1287.18 2279.43 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 3000]"
@@ -236461,7 +236461,7 @@ entity
 	"targetname" "pt_chopper"
 	connections
 	{
-		"OnPass" "chopper_mainhallStartPatrol0-1"
+		"OnPass" "chopper_mainhall,StartPatrol,,0,-1"
 	}
 	"origin" "-760 2656 1064"
 	editor
@@ -236560,7 +236560,7 @@ entity
 	"origin" "1216.31 2453.61 621"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 6000]"
@@ -236586,7 +236586,7 @@ entity
 	"origin" "1096 2448 621"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 6500]"
@@ -236612,7 +236612,7 @@ entity
 	"origin" "864 2456 621"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 7000]"
@@ -236638,7 +236638,7 @@ entity
 	"origin" "656 2448 621"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 7500]"
@@ -236664,7 +236664,7 @@ entity
 	"origin" "536 2456 621"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 8000]"
@@ -236690,7 +236690,7 @@ entity
 	"origin" "280 2448 621"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 8500]"
@@ -236716,7 +236716,7 @@ entity
 	"origin" "176 2448 621"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 9000]"
@@ -236742,7 +236742,7 @@ entity
 	"origin" "63.9999 2448 621"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 9500]"
@@ -236768,7 +236768,7 @@ entity
 	"origin" "-104 2448 621"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 10000]"
@@ -236794,7 +236794,7 @@ entity
 	"origin" "-248 2448 621"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 10500]"
@@ -236820,7 +236820,7 @@ entity
 	"origin" "-368 2456 621"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 11000]"
@@ -236846,7 +236846,7 @@ entity
 	"origin" "-528 2448 621"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 11500]"
@@ -236868,7 +236868,7 @@ entity
 	"origin" "-136 1168 198.396"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 12000]"
@@ -236890,7 +236890,7 @@ entity
 	"origin" "432 1440 198.396"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 12500]"
@@ -236904,16 +236904,16 @@ entity
 	"targetname" "relay_attention"
 	connections
 	{
-		"OnTrigger" "template_attentionForceSpawn0-1"
-		"OnTrigger" "aigoal_assault_attentionActivate1-1"
-		"OnTrigger" "aigoal_assault_attentionBeginAssault1.2-1"
-		"OnTrigger" "door_attentionUnlock0.5-1"
-		"OnTrigger" "door_attentionOpen0.7-1"
+		"OnTrigger" "template_attention,ForceSpawn,,0,-1"
+		"OnTrigger" "aigoal_assault_attention,Activate,,1,-1"
+		"OnTrigger" "aigoal_assault_attention,BeginAssault,,1.2,-1"
+		"OnTrigger" "door_attention,Unlock,,0.5,-1"
+		"OnTrigger" "door_attention,Open,,0.7,-1"
 	}
 	"origin" "1137.3 2704.09 153"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 13000]"
@@ -236957,13 +236957,13 @@ entity
 	"targetname" "counter_attention"
 	connections
 	{
-		"OnHitMax" "relay_attentionTrigger0-1"
-		"OnHitMax" "relay_chopper_setupTrigger0-1"
+		"OnHitMax" "relay_attention,Trigger,,0,-1"
+		"OnHitMax" "relay_chopper_setup,Trigger,,0,-1"
 	}
 	"origin" "1136 2704 168"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 14000]"
@@ -237032,7 +237032,7 @@ entity
 	"targetname" "assault_attention"
 	connections
 	{
-		"OnArrival" "combine_attentionUpdateEnemyMemory!player0-1"
+		"OnArrival" "combine_attention,UpdateEnemyMemory,!player,0,-1"
 	}
 	"origin" "1008.2 2520.71 153"
 	editor
@@ -237224,7 +237224,7 @@ entity
 	"origin" "1224 2792 256.238"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7000 -11768]"
@@ -237587,7 +237587,7 @@ entity
 	"wakesquad" "0"
 	connections
 	{
-		"OnDeath" "counter_final_phaseAdd10-1"
+		"OnDeath" "counter_final_phase,Add,1,0,-1"
 	}
 	"origin" "-560 1376 148.368"
 	editor
@@ -237867,7 +237867,7 @@ entity
 	"origin" "-904 1352 244.887"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 6000]"
@@ -237885,7 +237885,7 @@ entity
 	"origin" "-1032 1336 244.887"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 6500]"
@@ -237903,7 +237903,7 @@ entity
 	"origin" "-1056 1040 244.887"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 7000]"
@@ -237921,7 +237921,7 @@ entity
 	"origin" "-880 1008 244.887"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 7500]"
@@ -237943,7 +237943,7 @@ entity
 	"origin" "-544 968 651.411"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 8000]"
@@ -238011,7 +238011,7 @@ entity
 	"origin" "-504 1384 651.411"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 9500]"
@@ -238033,7 +238033,7 @@ entity
 	"origin" "-819 1195 651.411"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 10000]"
@@ -238078,7 +238078,7 @@ entity
 	"origin" "-945 1195 651.411"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 11000]"
@@ -238123,7 +238123,7 @@ entity
 	"origin" "-1134 1183 651.411"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 12000]"
@@ -238314,7 +238314,7 @@ entity
 	"origin" "412 1888 248"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 13500]"
@@ -238336,7 +238336,7 @@ entity
 	"origin" "164 1884 248"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 14000]"
@@ -238358,7 +238358,7 @@ entity
 	"origin" "-104 1892.43 248"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 14500]"
@@ -238806,7 +238806,7 @@ entity
 	"origin" "-144 -684 28"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -4768]"
@@ -238835,8 +238835,8 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_sendtroopsAdd10-1"
-		"OnDeath" "counter_phase4_beginAdd11-1"
+		"OnDeath" "counter_sendtroops,Add,1,0,-1"
+		"OnDeath" "counter_phase4_begin,Add,1,1,-1"
 	}
 	"origin" "808 1304 153"
 	editor
@@ -238952,12 +238952,12 @@ entity
 	"spawnflags" "1"
 	connections
 	{
-		"OnNewGame" "template_level3givegunsForceSpawn0-1"
+		"OnNewGame" "template_level3giveguns,ForceSpawn,,0,-1"
 	}
 	"origin" "1627.5 2476.82 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[7500 -768]"
@@ -239044,7 +239044,7 @@ entity
 	"origin" "1664 2888 88"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[8000 1500]"
@@ -239680,13 +239680,13 @@ entity
 	"targetname" "relay_z"
 	connections
 	{
-		"OnTrigger" "template_zombiesForceSpawn0-1"
-		"OnTrigger" "zombie_firstwaveUpdateEnemyMemory!player0.2-1"
+		"OnTrigger" "template_zombies,ForceSpawn,,0,-1"
+		"OnTrigger" "zombie_firstwave,UpdateEnemyMemory,!player,0.2,-1"
 	}
 	"origin" "1184 1080 24"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[8000 -14268]"
@@ -239701,8 +239701,8 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnTrigger" "relay_zTrigger0-1"
-		"OnTrigger" "zombie_warningPlaySound0-1"
+		"OnTrigger" "relay_z,Trigger,,0,-1"
+		"OnTrigger" "zombie_warning,PlaySound,,0,-1"
 	}
 	solid
 	{
@@ -239864,13 +239864,13 @@ entity
 	"targetname" "relay_zombine_laundry"
 	connections
 	{
-		"OnTrigger" "template_zombine_ambushForceSpawn0-1"
-		"OnTrigger" "zombine_laundry_ambushUpdateEnemyMemory!player0.1-1"
+		"OnTrigger" "template_zombine_ambush,ForceSpawn,,0,-1"
+		"OnTrigger" "zombine_laundry_ambush,UpdateEnemyMemory,!player,0.1,-1"
 	}
 	"origin" "1100.1 1861.51 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[8000 -12768]"
@@ -240176,13 +240176,13 @@ entity
 	"targetname" "relay_zombie_laundry2"
 	connections
 	{
-		"OnTrigger" "template_zombie_ambush2ForceSpawn0-1"
-		"OnTrigger" "zombie_laundry_wave2UpdateEnemyMemory!player0.2-1"
+		"OnTrigger" "template_zombie_ambush2,ForceSpawn,,0,-1"
+		"OnTrigger" "zombie_laundry_wave2,UpdateEnemyMemory,!player,0.2,-1"
 	}
 	"origin" "1064.06 1516.76 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[8000 -3768]"
@@ -240328,9 +240328,9 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnTrigger" "relay_zombine_laundryTrigger0-1"
-		"OnTrigger" "relay_zombie_laundry2Trigger1-1"
-		"OnTrigger" "zombie_warning2PlaySound0-1"
+		"OnTrigger" "relay_zombine_laundry,Trigger,,0,-1"
+		"OnTrigger" "relay_zombie_laundry2,Trigger,,1,-1"
+		"OnTrigger" "zombie_warning2,PlaySound,,0,-1"
 	}
 	solid
 	{
@@ -240761,7 +240761,7 @@ entity
 	"targetname" "zombine_p3"
 	connections
 	{
-		"OnDeath" "counter_laundry_scannersAdd10-1"
+		"OnDeath" "counter_laundry_scanners,Add,1,0,-1"
 	}
 	"origin" "840.916 2132 1"
 	editor
@@ -240792,7 +240792,7 @@ entity
 	"targetname" "zombine_p3"
 	connections
 	{
-		"OnDeath" "counter_laundry_scannersAdd10-1"
+		"OnDeath" "counter_laundry_scanners,Add,1,0,-1"
 	}
 	"origin" "800 2104.15 1"
 	editor
@@ -240829,13 +240829,13 @@ entity
 	"targetname" "relay_zombine_p3"
 	connections
 	{
-		"OnTrigger" "template_zombine_p3ForceSpawn0-1"
-		"OnTrigger" "ais_zombine_p3StartSchedule0.2-1"
+		"OnTrigger" "template_zombine_p3,ForceSpawn,,0,-1"
+		"OnTrigger" "ais_zombine_p3,StartSchedule,,0.2,-1"
 	}
 	"origin" "796 2064 24"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[8500 12000]"
@@ -241051,13 +241051,13 @@ entity
 	"targetname" "relay_zombie_p3"
 	connections
 	{
-		"OnTrigger" "template_zombie_p3ForceSpawn0-1"
-		"OnTrigger" "zombie_p3UpdateEnemyMemory!player1-1"
+		"OnTrigger" "template_zombie_p3,ForceSpawn,,0,-1"
+		"OnTrigger" "zombie_p3,UpdateEnemyMemory,!player,1,-1"
 	}
 	"origin" "800 1928 28"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[8500 -15768]"
@@ -241072,8 +241072,8 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnTrigger" "relay_zombine_p3Trigger0-1"
-		"OnTrigger" "relay_zombie_p3Trigger0-1"
+		"OnTrigger" "relay_zombine_p3,Trigger,,0,-1"
+		"OnTrigger" "relay_zombie_p3,Trigger,,0,-1"
 	}
 	solid
 	{
@@ -241355,7 +241355,7 @@ entity
 	"origin" "-504 -968 272"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[8500 -11768]"
@@ -241559,13 +241559,13 @@ entity
 	"targetname" "relay_s_cells"
 	connections
 	{
-		"OnTrigger" "temp_cellsForceSpawn0-1"
-		"OnTrigger" "scanner_cellsUpdateEnemyMemory!player0.2-1"
+		"OnTrigger" "temp_cells,ForceSpawn,,0,-1"
+		"OnTrigger" "scanner_cells,UpdateEnemyMemory,!player,0.2,-1"
 	}
 	"origin" "1353.21 761 423.538"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[8500 -7268]"
@@ -241687,7 +241687,7 @@ entity
 	"targetname" "trig_scan_s"
 	connections
 	{
-		"OnTrigger" "relay_s_cellsTrigger0-1"
+		"OnTrigger" "relay_s_cells,Trigger,,0,-1"
 	}
 	solid
 	{
@@ -241823,13 +241823,13 @@ entity
 	"targetname" "relay_scan_bath"
 	connections
 	{
-		"OnTrigger" "template_bath_scannerForceSpawn0-1"
-		"OnTrigger" "scanner_bathUpdateEnemyMemory!player0.2-1"
+		"OnTrigger" "template_bath_scanner,ForceSpawn,,0,-1"
+		"OnTrigger" "scanner_bath,UpdateEnemyMemory,!player,0.2,-1"
 	}
 	"origin" "19.1482 1639.85 297"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[8500 -2768]"
@@ -242089,13 +242089,13 @@ entity
 	"targetname" "alyx_sentence1"
 	connections
 	{
-		"OnCompletion" "relay_sentece1Kill0-1"
-		"OnCompletion" "relay_finaleTrigger0-1"
+		"OnCompletion" "relay_sentece1,Kill,,0,-1"
+		"OnCompletion" "relay_finale,Trigger,,0,-1"
 	}
 	"origin" "-1127.89 -1784 9"
 	editor
 	{
-		"color" "240 180 250"
+		"color" "0 0 255"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9000 5000]"
@@ -242424,8 +242424,8 @@ entity
 	"wait" "1"
 	connections
 	{
-		"OnStartTouch" "sound_touchPlaySound0.1-1"
-		"OnEndTouch" "sound_touchStopSound0.1-1"
+		"OnStartTouch" "sound_touch,PlaySound,,0.1,-1"
+		"OnEndTouch" "sound_touch,StopSound,,0.1,-1"
 	}
 	solid
 	{
@@ -242617,7 +242617,7 @@ entity
 	"origin" "-1296 -1588 240"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9000 8500]"
@@ -242678,7 +242678,7 @@ entity
 	"origin" "0 1820 101.411"
 	editor
 	{
-		"color" "200 200 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9000 10000]"
@@ -242705,9 +242705,9 @@ entity
 	"targetname" "move_spark"
 	connections
 	{
-		"OnFullyOpen" "relay_shower_explodeTrigger0-1"
-		"OnFullyOpen" "spark_graphKill0-1"
-		"OnFullyOpen" "light_sparkTurnOff0-1"
+		"OnFullyOpen" "relay_shower_explode,Trigger,,0,-1"
+		"OnFullyOpen" "spark_graph,Kill,,0,-1"
+		"OnFullyOpen" "light_spark,TurnOff,,0,-1"
 	}
 	solid
 	{
@@ -242844,14 +242844,14 @@ entity
 	"targetname" "relay_move_spark"
 	connections
 	{
-		"OnTrigger" "spark_graphStartSpark0-1"
-		"OnTrigger" "move_sparkOpen0-1"
-		"OnTrigger" "light_sparkTurnOn0-1"
+		"OnTrigger" "spark_graph,StartSpark,,0,-1"
+		"OnTrigger" "move_spark,Open,,0,-1"
+		"OnTrigger" "light_spark,TurnOn,,0,-1"
 	}
 	"origin" "56.9551 1773.79 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9000 11000]"
@@ -242880,8 +242880,8 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_sendtroopsAdd10-1"
-		"OnDeath" "counter_phase4_beginAdd11-1"
+		"OnDeath" "counter_sendtroops,Add,1,0,-1"
+		"OnDeath" "counter_phase4_begin,Add,1,1,-1"
 	}
 	"origin" "796 1376 153"
 	editor
@@ -242951,7 +242951,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_phase4_beginAdd10-1"
+		"OnDeath" "counter_phase4_begin,Add,1,0,-1"
 	}
 	"origin" "776 1988 141.444"
 	editor
@@ -243008,8 +243008,8 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_phase4_crosswalkAdd10-1"
-		"OnDeath" "counter_final_phaseAdd10-1"
+		"OnDeath" "counter_phase4_crosswalk,Add,1,0,-1"
+		"OnDeath" "counter_final_phase,Add,1,0,-1"
 	}
 	"origin" "-776 1280 148.01"
 	editor
@@ -243043,8 +243043,8 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_phase4_crosswalkAdd10-1"
-		"OnDeath" "counter_final_phaseAdd10-1"
+		"OnDeath" "counter_phase4_crosswalk,Add,1,0,-1"
+		"OnDeath" "counter_final_phase,Add,1,0,-1"
 	}
 	"origin" "-724 1244 148.01"
 	editor
@@ -243287,8 +243287,8 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnTrigger" "sequence_cheerBeginSequence1-1"
-		"OnTrigger" "aisc_alyx_sentenceEnable0-1"
+		"OnTrigger" "sequence_cheer,BeginSequence,,1,-1"
+		"OnTrigger" "aisc_alyx_sentence,Enable,,0,-1"
 	}
 	solid
 	{
@@ -243449,18 +243449,18 @@ entity
 	"targetname" "relay_finale"
 	connections
 	{
-		"OnTrigger" "crosshair_endCommandcrosshair 00-1"
-		"OnTrigger" "creditsRollOutroCredits0-1"
-		"OnTrigger" "fadeFade0-1"
-		"OnTrigger" "credits_weaponstripStripWeaponsAndSuit0-1"
-		"OnTrigger" "stopmovingModifySpeed00-1"
-		"OnTrigger" "music_finalePlaySound0-1"
-		"OnTrigger" "credits_weaponstripStripWeaponsAndSuit3-1"
+		"OnTrigger" "crosshair_end,Command,crosshair 0,0,-1"
+		"OnTrigger" "credits,RollOutroCredits,,0,-1"
+		"OnTrigger" "fade,Fade,,0,-1"
+		"OnTrigger" "credits_weaponstrip,StripWeaponsAndSuit,,0,-1"
+		"OnTrigger" "stopmoving,ModifySpeed,0,0,-1"
+		"OnTrigger" "music_finale,PlaySound,,0,-1"
+		"OnTrigger" "credits_weaponstrip,StripWeaponsAndSuit,,3,-1"
 	}
 	"origin" "-1259.76 -1720 8"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9000 -11268]"
@@ -243491,7 +243491,7 @@ entity
 	"targetname" "aisc_alyx_sentence"
 	connections
 	{
-		"OnConditionsSatisfied" "relay_sentece1Trigger0.1-1"
+		"OnConditionsSatisfied" "relay_sentece1,Trigger,,0.1,-1"
 	}
 	"origin" "-1180.42 -1763 52.2033"
 	editor
@@ -243511,13 +243511,13 @@ entity
 	"targetname" "relay_sentece1"
 	connections
 	{
-		"OnTrigger" "alyx_sentence1Start0-1"
-		"OnTrigger" "relay_sentece1Disable0.1-1"
+		"OnTrigger" "alyx_sentence1,Start,,0,-1"
+		"OnTrigger" "relay_sentece1,Disable,,0.1,-1"
 	}
 	"origin" "-1125.83 -1801.63 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9000 -10268]"
@@ -244181,7 +244181,7 @@ entity
 	"origin" "0 1798.17 68"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9500 4000]"
@@ -244265,7 +244265,7 @@ entity
 	"origin" "-679.41 254 258.206"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9500 6000]"
@@ -244330,7 +244330,7 @@ entity
 	"origin" "-93.9099 2568 248"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9500 8000]"
@@ -244602,10 +244602,10 @@ entity
 	"targetname" "credits"
 	connections
 	{
-		"__OnCreditsDone" "credits_menuCommandmap_background background013-1"
-		"OnCreditsDone" "credits_menuCommandstartupmenu force3.5-1"
-		"_OnCreditsDone" "credits_menuCommandcancelselect4-1"
-		"OnCreditsDone" "credits_menuCommandcrosshair 13.4-1"
+		"__OnCreditsDone" "credits_menu,Command,map_background background01,3,-1"
+		"OnCreditsDone" "credits_menu,Command,startupmenu force,3.5,-1"
+		"_OnCreditsDone" "credits_menu,Command,cancelselect,4,-1"
+		"OnCreditsDone" "credits_menu,Command,crosshair 1,3.4,-1"
 	}
 	"origin" "-1256 -1720 24"
 	editor
@@ -244759,7 +244759,7 @@ entity
 	"origin" "-1259.11 -1705.58 9"
 	editor
 	{
-		"color" "200 0 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9500 -15768]"
@@ -245251,15 +245251,15 @@ entity
 	"targetname" "relay_Combine_chatter"
 	connections
 	{
-		"OnTrigger" "chatter1PlaySound0-1"
-		"OnTrigger" "chatter2PlaySound2-1"
-		"OnTrigger" "chatter3PlaySound4-1"
-		"OnTrigger" "chatter4PlaySound6-1"
+		"OnTrigger" "chatter1,PlaySound,,0,-1"
+		"OnTrigger" "chatter2,PlaySound,,2,-1"
+		"OnTrigger" "chatter3,PlaySound,,4,-1"
+		"OnTrigger" "chatter4,PlaySound,,6,-1"
 	}
 	"origin" "590.273 1908.93 153"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9500 -9268]"
@@ -245413,7 +245413,7 @@ entity
 	"origin" "1.34181 1951.49 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[9500 -5768]"
@@ -245693,7 +245693,7 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnTrigger" "relay_sound_attractTrigger0-1"
+		"OnTrigger" "relay_sound_attract,Trigger,,0,-1"
 	}
 	solid
 	{
@@ -245829,14 +245829,14 @@ entity
 	"targetname" "relay_sound_attract"
 	connections
 	{
-		"OnTrigger" "attenion1PlaySound0-1"
-		"OnTrigger" "attention2PlaySound2-1"
-		"OnTrigger" "attention3PlaySound4-1"
+		"OnTrigger" "attenion1,PlaySound,,0,-1"
+		"OnTrigger" "attention2,PlaySound,,2,-1"
+		"OnTrigger" "attention3,PlaySound,,4,-1"
 	}
 	"origin" "1463.16 2765.38 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[10000 2500]"
@@ -245973,7 +245973,7 @@ entity
 	"origin" "35.2539 1900.74 9"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[10000 5500]"
@@ -338322,7 +338322,7 @@ entity
 		}
 		editor
 		{
-			"color" "0 139 172"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -338440,7 +338440,7 @@ entity
 		}
 		editor
 		{
-			"color" "0 197 110"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -400476,7 +400476,7 @@ entity
 	"waitingtorappel" "No"
 	connections
 	{
-		"OnDeath" "counter_phase3Add10-1"
+		"OnDeath" "counter_phase3,Add,1,0,-1"
 	}
 	"origin" "-795.911 -749.899 9.53674e-07"
 	editor
@@ -400542,7 +400542,7 @@ entity
 	"origin" "-1376 -1728 1"
 	editor
 	{
-		"color" "200 0 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-10268 6500]"
@@ -401267,13 +401267,13 @@ entity
 	"spawnflags" "1"
 	connections
 	{
-		"OnMapSpawn" "servercmd_disable_squadCommandnpc_citizen_auto_player_squad 01-1"
-		"OnMapSpawn" "servercmd_disable_squadCommandnpc_citizen_auto_player_squad_allow_use 01-1"
+		"OnMapSpawn" "servercmd_disable_squad,Command,npc_citizen_auto_player_squad 0,1,-1"
+		"OnMapSpawn" "servercmd_disable_squad,Command,npc_citizen_auto_player_squad_allow_use 0,1,-1"
 	}
 	"origin" "1570 2558 1"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1000]"
@@ -401288,7 +401288,7 @@ entity
 	"origin" "1534 2554 1"
 	editor
 	{
-		"color" "200 0 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1500]"
@@ -401319,7 +401319,7 @@ entity
 	"origin" "-1365.5 -1689 1"
 	editor
 	{
-		"color" "200 0 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
@@ -401447,14 +401447,14 @@ entity
 		}
 		editor
 		{
-			"color" "200 0 0"
+			"color" "220 30 220"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	editor
 	{
-		"color" "200 0 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2500 -4768]"
@@ -401501,14 +401501,14 @@ entity
 	"spawnflags" "1"
 	connections
 	{
-		"OnMapSpawn" "door_exitKill0-1"
-		"OnMapSpawn" "door_lock_soundPlaySound0.1-1"
-		"OnMapSpawn" "crosshair_fix_map3Commandcrosshair 10-1"
+		"OnMapSpawn" "door_exit,Kill,,0,-1"
+		"OnMapSpawn" "door_lock_sound,PlaySound,,0.1,-1"
+		"OnMapSpawn" "crosshair_fix_map3,Command,crosshair 1,0,-1"
 	}
 	"origin" "1897.17 2182.77 8"
 	editor
 	{
-		"color" "0 100 250"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
@@ -401565,7 +401565,7 @@ entity
 	"origin" "2040.94 2215.93 92.4594"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 4500]"
@@ -401616,7 +401616,7 @@ entity
 	"origin" "1878.32 2100.07 95.601"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 4500]"
@@ -401710,7 +401710,7 @@ entity
 	"origin" "1898.87 2222.4 8"
 	editor
 	{
-		"color" "200 0 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
@@ -404287,7 +404287,7 @@ entity
 		}
 		editor
 		{
-			"color" "0 205 182"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -405769,8 +405769,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[392.268 2424.13 77.6171]"
-		"look" "[165.444 2428.86 -61.959]"
+		"position" "[1453.47 2489.65 71.0982]"
+		"look" "[1235.95 2336.18 61.8033]"
 	}
 	camera
 	{
