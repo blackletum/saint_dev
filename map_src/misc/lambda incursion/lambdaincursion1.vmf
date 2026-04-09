@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "156"
+	"mapversion" "158"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -125,7 +125,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "156"
+	"mapversion" "158"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"comment" "Decompiled by BSPSource v1.4.3 from lambdaincursion1"
@@ -316730,13 +316730,13 @@ entity
 		side
 		{
 			"id" "23273"
-			"plane" "(-4400 -1248 384) (-4400 -1248 256) (-4400 -1376 256)"
+			"plane" "(-4336 -1248 384) (-4336 -1248 256) (-4336 -1376 256)"
 			vertices_plus
 			{
-				"v" "-4400 -1248 384"
-				"v" "-4400 -1248 256"
-				"v" "-4400 -1376 256"
-				"v" "-4400 -1376 384"
+				"v" "-4336 -1248 384"
+				"v" "-4336 -1248 256"
+				"v" "-4336 -1376 256"
+				"v" "-4336 -1376 384"
 			}
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 1 0 0] 0.25"
@@ -316748,16 +316748,16 @@ entity
 		side
 		{
 			"id" "23274"
-			"plane" "(-4400 -1376 384) (-4400 -1376 256) (-4408 -1376 256)"
+			"plane" "(-4336 -1376 384) (-4336 -1376 256) (-4344 -1376 256)"
 			vertices_plus
 			{
-				"v" "-4400 -1376 384"
-				"v" "-4400 -1376 256"
-				"v" "-4408 -1376 256"
-				"v" "-4408 -1376 384"
+				"v" "-4336 -1376 384"
+				"v" "-4336 -1376 256"
+				"v" "-4344 -1376 256"
+				"v" "-4344 -1376 384"
 			}
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
+			"uaxis" "[1 0 0 -0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -316766,16 +316766,16 @@ entity
 		side
 		{
 			"id" "23275"
-			"plane" "(-4408 -1248 384) (-4408 -1248 256) (-4400 -1248 256)"
+			"plane" "(-4344 -1248 256) (-4336 -1248 256) (-4336 -1248 384)"
 			vertices_plus
 			{
-				"v" "-4408 -1248 256"
-				"v" "-4400 -1248 256"
-				"v" "-4400 -1248 384"
-				"v" "-4408 -1248 384"
+				"v" "-4344 -1248 256"
+				"v" "-4336 -1248 256"
+				"v" "-4336 -1248 384"
+				"v" "-4344 -1248 384"
 			}
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
+			"uaxis" "[1 0 0 -0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -316784,16 +316784,16 @@ entity
 		side
 		{
 			"id" "23276"
-			"plane" "(-4408 -1248 256) (-4408 -1376 256) (-4400 -1376 256)"
+			"plane" "(-4344 -1376 256) (-4336 -1376 256) (-4336 -1248 256)"
 			vertices_plus
 			{
-				"v" "-4408 -1376 256"
-				"v" "-4400 -1376 256"
-				"v" "-4400 -1248 256"
-				"v" "-4408 -1248 256"
+				"v" "-4344 -1376 256"
+				"v" "-4336 -1376 256"
+				"v" "-4336 -1248 256"
+				"v" "-4344 -1248 256"
 			}
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
+			"uaxis" "[1 0 0 -0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -316802,16 +316802,16 @@ entity
 		side
 		{
 			"id" "23277"
-			"plane" "(-4408 -1376 384) (-4408 -1248 384) (-4400 -1248 384)"
+			"plane" "(-4344 -1248 384) (-4336 -1248 384) (-4336 -1376 384)"
 			vertices_plus
 			{
-				"v" "-4408 -1248 384"
-				"v" "-4400 -1248 384"
-				"v" "-4400 -1376 384"
-				"v" "-4408 -1376 384"
+				"v" "-4344 -1248 384"
+				"v" "-4336 -1248 384"
+				"v" "-4336 -1376 384"
+				"v" "-4344 -1376 384"
 			}
 			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 0 0 0] 0.25"
+			"uaxis" "[1 0 0 -0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -316820,13 +316820,13 @@ entity
 		side
 		{
 			"id" "23278"
-			"plane" "(-4408 -1376 384) (-4408 -1376 256) (-4408 -1248 256)"
+			"plane" "(-4344 -1376 384) (-4344 -1376 256) (-4344 -1248 256)"
 			vertices_plus
 			{
-				"v" "-4408 -1376 384"
-				"v" "-4408 -1376 256"
-				"v" "-4408 -1248 256"
-				"v" "-4408 -1248 384"
+				"v" "-4344 -1376 384"
+				"v" "-4344 -1376 256"
+				"v" "-4344 -1248 256"
+				"v" "-4344 -1248 384"
 			}
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 1 0 0] 0.25"
@@ -692344,13 +692344,13 @@ entity
 	"NoWind" "0"
 	"parentname" "plug_end"
 	"RopeMaterial" "cable/cable.vmt"
+	"Slack" "25"
 	"spawnflags" "0"
+	"Subdiv" "2"
 	"targetname" "cable_1"
 	"TextureScale" "1"
 	"Type" "0"
 	"Width" "2"
-	"Slack" "25"
-	"Subdiv" "2"
 	"origin" "-1084 -2692 73"
 	editor
 	{
@@ -692373,13 +692373,13 @@ entity
 	"NoWind" "0"
 	"parentname" "plug_start"
 	"RopeMaterial" "cable/cable.vmt"
+	"Slack" "25"
 	"spawnflags" "0"
+	"Subdiv" "2"
 	"targetname" "cable_2"
 	"TextureScale" "1"
 	"Type" "0"
 	"Width" "2"
-	"Slack" "25"
-	"Subdiv" "2"
 	"origin" "-996 -2692 73"
 	editor
 	{
@@ -692449,8 +692449,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1037.61 -2663.45 121.633]"
-		"look" "[-1046.66 -2807.43 -102.221]"
+		"position" "[-4255.44 -1355.74 338.536]"
+		"look" "[-4258.1 -1165.49 152.207]"
 	}
 }
 cordons
