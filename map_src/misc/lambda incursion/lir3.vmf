@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "85"
+	"mapversion" "91"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "85"
+	"mapversion" "91"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"comment" "Decompiled by BSPSource v1.4.3 from lambdaincursion3"
@@ -220902,7 +220902,7 @@ entity
 {
 	"id" "86742"
 	"classname" "trigger_once"
-	"origin" "240 2440 108"
+	"origin" "240 2448 108"
 	"spawnflags" "1"
 	"StartDisabled" "0"
 	connections
@@ -220915,13 +220915,13 @@ entity
 		side
 		{
 			"id" "12473"
-			"plane" "(216 2336 216) (216 2336 0) (216 2544 0)"
+			"plane" "(216 2336 216) (216 2336 0) (216 2560 0)"
 			vertices_plus
 			{
 				"v" "216 2336 216"
 				"v" "216 2336 0"
-				"v" "216 2544 -0"
-				"v" "216 2544 216"
+				"v" "216 2560 0"
+				"v" "216 2560 216"
 			}
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 -1 0 0] 0.25"
@@ -220933,12 +220933,12 @@ entity
 		side
 		{
 			"id" "12474"
-			"plane" "(264 2544 216) (264 2544 0) (264 2336 0)"
+			"plane" "(264 2560 216) (264 2560 0) (264 2336 0)"
 			vertices_plus
 			{
-				"v" "264 2544 216"
-				"v" "264 2544 0"
-				"v" "264 2336 -0"
+				"v" "264 2560 216"
+				"v" "264 2560 0"
+				"v" "264 2336 0"
 				"v" "264 2336 216"
 			}
 			"material" "TOOLS/TOOLSTRIGGER"
@@ -220956,7 +220956,7 @@ entity
 			{
 				"v" "264 2336 216"
 				"v" "264 2336 0"
-				"v" "216 2336 -0"
+				"v" "216 2336 0"
 				"v" "216 2336 216"
 			}
 			"material" "TOOLS/TOOLSTRIGGER"
@@ -220969,13 +220969,13 @@ entity
 		side
 		{
 			"id" "12476"
-			"plane" "(216 2544 216) (216 2544 0) (264 2544 0)"
+			"plane" "(216 2560 216) (216 2560 0) (264 2560 0)"
 			vertices_plus
 			{
-				"v" "216 2544 216"
-				"v" "216 2544 0"
-				"v" "264 2544 -0"
-				"v" "264 2544 216"
+				"v" "216 2560 216"
+				"v" "216 2560 0"
+				"v" "264 2560 0"
+				"v" "264 2560 216"
 			}
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[-1 0 0 32] 0.25"
@@ -220987,13 +220987,13 @@ entity
 		side
 		{
 			"id" "12477"
-			"plane" "(216 2544 0) (216 2336 0) (264 2336 0)"
+			"plane" "(216 2560 0) (216 2336 0) (264 2336 0)"
 			vertices_plus
 			{
-				"v" "216 2544 0"
+				"v" "216 2560 0"
 				"v" "216 2336 0"
 				"v" "264 2336 0"
-				"v" "264 2544 0"
+				"v" "264 2560 0"
 			}
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[-1 0 0 32] 0.25"
@@ -221005,12 +221005,12 @@ entity
 		side
 		{
 			"id" "12478"
-			"plane" "(216 2336 216) (216 2544 216) (264 2544 216)"
+			"plane" "(216 2336 216) (216 2560 216) (264 2560 216)"
 			vertices_plus
 			{
 				"v" "216 2336 216"
-				"v" "216 2544 216"
-				"v" "264 2544 216"
+				"v" "216 2560 216"
+				"v" "264 2560 216"
 				"v" "264 2336 216"
 			}
 			"material" "TOOLS/TOOLSTRIGGER"
@@ -233183,6 +233183,7 @@ entity
 	"solid" "6"
 	"spawnflags" "8192"
 	"speed" "100"
+	"targetname" "door1"
 	"origin" "91.0001 334 54"
 	editor
 	{
@@ -233211,9 +233212,11 @@ entity
 	"rendercolor" "255 255 255"
 	"returndelay" "-1"
 	"skin" "7"
+	"slavename" "door1"
 	"solid" "6"
 	"spawnflags" "8192"
 	"speed" "100"
+	"targetname" "door2"
 	"origin" "-2.99995 334 54"
 	editor
 	{
@@ -394795,9 +394798,9 @@ entity
 	"id" "315706"
 	"classname" "trigger_changelevel"
 	"landmark" "landmarkchangelevel2-3"
-	"map" "lambdaincursion2"
+	"map" "lir2"
 	"origin" "2117.93 2074.22 64"
-	"spawnflags" "4"
+	"spawnflags" "6"
 	"StartDisabled" "0"
 	solid
 	{
@@ -395048,7 +395051,7 @@ entity
 	"EndU" "0"
 	"EndV" "1"
 	"fademindist" "-1"
-	"material" "maps/lambdaincursion3/saintsoftware"
+	"material" "decals/saintsoftware"
 	"sides" "10579"
 	"StartU" "1"
 	"StartV" "0"
@@ -395149,7 +395152,7 @@ entity
 	"EndU" "1"
 	"EndV" "0"
 	"fademindist" "-1"
-	"material" "maps/lambdaincursion3/stupidface"
+	"material" "decals/stupidface"
 	"sides" "7153"
 	"StartU" "0"
 	"StartV" "1"
@@ -400404,8 +400407,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1228.21 -1493.76 182.37]"
-		"look" "[-1213.41 -1686.09 -1.32294]"
+		"position" "[-1003.16 -1628.54 73.9739]"
+		"look" "[-979.013 -1363.28 75.8324]"
 	}
 	camera
 	{
