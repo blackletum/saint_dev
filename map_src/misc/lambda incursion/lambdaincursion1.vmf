@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "162"
+	"mapversion" "163"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -125,7 +125,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "162"
+	"mapversion" "163"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"comment" "Decompiled by BSPSource v1.4.3 from lambdaincursion1"
@@ -318567,27 +318567,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[10000 -11768]"
-	}
-}
-entity
-{
-	"id" "392911"
-	"classname" "logic_auto"
-	"angles" "0 0 0"
-	"spawnflags" "1"
-	connections
-	{
-		"_OnMapSpawn" "plug_start,EnableMotion,,1,-1"
-		"_OnMapSpawn" "plug_end,EnableMotion,,1,-1"
-		"OnMapSpawn" "barrel,Break,,0,-1"
-	}
-	"origin" "-1065.65 -2707.89 73"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[10000 -11268]"
 	}
 }
 entity
@@ -692477,8 +692456,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1539.77 -2273.15 422.84]"
-		"look" "[-1681.4 -2468.1 309.448]"
+		"position" "[-1054.56 -2640.32 131.552]"
+		"look" "[-1055.8 -2819.89 -65.1091]"
 	}
 }
 cordons
