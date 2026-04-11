@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "196"
+	"mapversion" "198"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -125,7 +125,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "196"
+	"mapversion" "198"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"comment" "Decompiled by BSPSource v1.4.3 from lambdaincursion1"
@@ -340174,7 +340174,7 @@ entity
 	{
 		"OnNewGame" "template_newgame_items,ForceSpawn,,0,-1"
 		"OnNewGame" "text_objective,Display,,0,-1"
-		"OnMapSpawn" "crosshair_fix_map1,Command,crosshair 1,0,-1"
+		"_OnMapSpawn" "crosshair_fix_map1,Command,crosshair 1,0,-1"
 	}
 	"origin" "-976.314 -4543.27 264"
 	editor
@@ -692534,13 +692534,73 @@ entity
 		"logicalpos" "[0 0]"
 	}
 }
+entity
+{
+	"id" "609559"
+	"classname" "info_node"
+	"angles" "0 0 0"
+	"nodeid" "518"
+	"origin" "-1737.26 -1993.47 256"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[5500 16000]"
+	}
+}
+entity
+{
+	"id" "609561"
+	"classname" "info_node"
+	"angles" "0 0 0"
+	"nodeid" "519"
+	"origin" "-1703.93 -1925.28 256"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[5500 16000]"
+	}
+}
+entity
+{
+	"id" "609571"
+	"classname" "info_node"
+	"angles" "0 0 0"
+	"nodeid" "520"
+	"origin" "-1884.89 -1929.99 256"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[5500 16000]"
+	}
+}
+entity
+{
+	"id" "609573"
+	"classname" "info_node"
+	"angles" "0 0 0"
+	"nodeid" "521"
+	"origin" "-1771.95 -1822.3 256"
+	editor
+	{
+		"color" "232 219 8"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[5500 16000]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-3834.49 -722.353 358.75]"
-		"look" "[-3819.76 -985.392 319.848]"
+		"position" "[-1593.96 -1997.44 395.201]"
+		"look" "[-1811.67 -1904.15 273.474]"
 	}
 }
 cordons
