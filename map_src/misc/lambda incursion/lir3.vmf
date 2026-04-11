@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "106"
+	"mapversion" "107"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "106"
+	"mapversion" "107"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"comment" "Decompiled by BSPSource v1.4.3 from lambdaincursion3"
@@ -399918,7 +399918,7 @@ entity
 	"targetname" "combine_end_counter"
 	connections
 	{
-		"OnHitMax" "trigger_sound_alyx,Enable,,0.3,-1"
+		"OnHitMax" "trigger_alyx_cheer,Enable,,0.3,-1"
 	}
 	"origin" "-1192 -1656 8"
 	editor
@@ -400617,8 +400617,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-817.295 -773.965 99.7769]"
-		"look" "[-588.011 -730.238 -28.5451]"
+		"position" "[-1215.91 -1577.87 139.099]"
+		"look" "[-1181.84 -1699.89 -95.2071]"
 	}
 	camera
 	{
