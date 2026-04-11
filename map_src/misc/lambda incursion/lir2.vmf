@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "122"
+	"mapversion" "128"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -113,7 +113,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "122"
+	"mapversion" "128"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"comment" "Decompiled by BSPSource v1.4.3 from lambdaincursion2"
@@ -267881,7 +267881,7 @@ entity
 	"SetDynamicInteractions" "2"
 	"SetProficiencyOverride" "-1"
 	"solid" "6"
-	"spawnflags" "328196"
+	"spawnflags" "330244"
 	"targetname" "chopper_preview"
 	"origin" "-2720 6176 1096"
 	editor
@@ -267957,7 +267957,7 @@ entity
 	"speed" "500"
 	"target" "pc_chopper_preview1"
 	"targetname" "pc_chopper_preview"
-	"origin" "-2696 5528 1224"
+	"origin" "-2696 5528 1380"
 	editor
 	{
 		"color" "255 192 0"
@@ -267975,7 +267975,7 @@ entity
 	"speed" "500"
 	"target" "pc_chopper_preview2"
 	"targetname" "pc_chopper_preview1"
-	"origin" "-2700 4648 1224"
+	"origin" "-2700 4646 1332"
 	editor
 	{
 		"color" "255 192 0"
@@ -272387,6 +272387,7 @@ entity
 	"BaseSpeedModifier" "1.0"
 	"FriendlyFireOverride" "2"
 	"innerradius" "300"
+	"minhealthdmg" "1000"
 	"modelscale" "1.0"
 	"outerradius" "450"
 	"physdamagescale" "1.0"
@@ -272403,7 +272404,7 @@ entity
 		"OnFoundPlayer" "relay_combine_court,Trigger,,0,-1"
 		"OnFoundPlayer" "relay_alarm_music,Trigger,,0,-1"
 		"OnFoundPlayer" "overwatch_computer,UpdateEnemyMemory,!player,0,-1"
-		"OnDeath" "funny_camera,Kill,,0,-1"
+		"OnDeath" "funny_camera,Disable,,0,-1"
 	}
 	"origin" "-744 3512 319"
 	editor
@@ -379805,7 +379806,7 @@ entity
 	"targetname" "crosshair_fix_map2"
 	connections
 	{
-		"OnMapSpawn" "crosshair_fix_map2,Command,crosshair 1,0,-1"
+		"_OnMapSpawn" "crosshair_fix_map2,Command,crosshair 1,0,-1"
 	}
 	"origin" "-2873.21 5771.08 72"
 	editor
@@ -421751,8 +421752,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-2632.37 62.1134 384.858]"
-		"look" "[-2516.7 -175.032 349.653]"
+		"position" "[-2891.98 5864.47 126.703]"
+		"look" "[-3121.56 5729.76 128.562]"
 	}
 }
 cordons
