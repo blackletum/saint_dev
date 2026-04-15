@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "205"
+	"mapversion" "207"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -125,7 +125,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "205"
+	"mapversion" "207"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"comment" "Decompiled by BSPSource v1.4.3 from lambdaincursion1"
@@ -692604,7 +692604,7 @@ entity
 		"id" "615468"
 		side
 		{
-			"id" "66730"
+			"id" "66778"
 			"plane" "(-1343.58 -2726.48 192) (-1343.58 -2624 192) (-1243.58 -2624 192)"
 			vertices_plus
 			{
@@ -692613,7 +692613,7 @@ entity
 				"v" "-1243.58 -2624 192"
 				"v" "-1243.58 -2624.28 192"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 -25.6821] 0.25"
 			"vaxis" "[0 -1 0 -37.3203] 0.25"
 			"rotation" "0"
@@ -692622,7 +692622,7 @@ entity
 		}
 		side
 		{
-			"id" "66729"
+			"id" "66777"
 			"plane" "(-1343.58 -2624 64) (-1343.58 -2726.48 64) (-1243.58 -2624.28 64)"
 			vertices_plus
 			{
@@ -692631,7 +692631,7 @@ entity
 				"v" "-1243.58 -2624.28 64"
 				"v" "-1243.58 -2624 64"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 -25.6821] 0.25"
 			"vaxis" "[0 -1 0 -37.3203] 0.25"
 			"rotation" "0"
@@ -692640,7 +692640,7 @@ entity
 		}
 		side
 		{
-			"id" "66728"
+			"id" "66776"
 			"plane" "(-1343.58 -2726.48 64) (-1343.58 -2624 64) (-1343.58 -2624 192)"
 			vertices_plus
 			{
@@ -692649,7 +692649,7 @@ entity
 				"v" "-1343.58 -2624 192"
 				"v" "-1343.58 -2726.48 192"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 1 0 37.3203] 0.25"
 			"vaxis" "[0 0 -1 44] 0.25"
 			"rotation" "0"
@@ -692658,7 +692658,7 @@ entity
 		}
 		side
 		{
-			"id" "66727"
+			"id" "66775"
 			"plane" "(-1243.58 -2624 64) (-1243.58 -2624.28 64) (-1243.58 -2624.28 192)"
 			vertices_plus
 			{
@@ -692667,8 +692667,8 @@ entity
 				"v" "-1243.58 -2624.28 192"
 				"v" "-1243.58 -2624 192"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 37.3203] 0.25"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 -25.6821] 0.25"
 			"vaxis" "[0 0 -1 44] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -692676,7 +692676,7 @@ entity
 		}
 		side
 		{
-			"id" "66726"
+			"id" "66774"
 			"plane" "(-1343.58 -2624 64) (-1243.58 -2624 64) (-1243.58 -2624 192)"
 			vertices_plus
 			{
@@ -692685,7 +692685,7 @@ entity
 				"v" "-1243.58 -2624 192"
 				"v" "-1343.58 -2624 192"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
+			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 -25.6821] 0.25"
 			"vaxis" "[0 0 -1 44] 0.25"
 			"rotation" "0"
@@ -692694,7 +692694,7 @@ entity
 		}
 		side
 		{
-			"id" "66725"
+			"id" "66773"
 			"plane" "(-1243.58 -2624.29 64) (-1343.58 -2726.48 64) (-1343.58 -2726.48 192)"
 			vertices_plus
 			{
@@ -692703,9 +692703,9 @@ entity
 				"v" "-1343.58 -2726.48 192"
 				"v" "-1243.58 -2624.28 192"
 			}
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 -25.6821] 0.25"
+			"vaxis" "[0 0 -1 44] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -692730,8 +692730,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1115.62 -2713.11 175.83]"
-		"look" "[-1367.73 -2663.19 106.006]"
+		"position" "[-1167.5 -2704.52 168.565]"
+		"look" "[-1406.04 -2617.7 88.0418]"
 	}
 }
 cordons
