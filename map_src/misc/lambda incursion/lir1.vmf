@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "229"
+	"mapversion" "231"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -50,7 +50,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "8"
+	"nGridSpacing" "1"
 }
 palette_plus
 {
@@ -125,7 +125,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "229"
+	"mapversion" "231"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"comment" "Decompiled by BSPSource v1.4.3 from lambdaincursion1"
@@ -286442,7 +286442,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"spawnflags" "0"
 	"origin" "-514 -838 298.083"
 	editor
@@ -287004,7 +287004,8 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
+	"spawnflags" "0"
 	"origin" "-4194 -592 306"
 	editor
 	{
@@ -288149,7 +288150,7 @@ entity
 	"spotlightlength" "500"
 	"SpotlightMaterial" "sprites/glow_test02.vmt"
 	"spotlightwidth" "50"
-	"origin" "-4074 -1294 372"
+	"origin" "-4073 -1295 375"
 	editor
 	{
 		"color" "220 30 220"
@@ -288171,7 +288172,7 @@ entity
 	"_quadratic_attn" "1"
 	"angles" "-90 0 0"
 	"pitch" "-90"
-	"origin" "-4074 -1294 368"
+	"origin" "-4073 -1295 371"
 	editor
 	{
 		"color" "220 30 220"
@@ -288216,7 +288217,7 @@ entity
 	"spotlightlength" "500"
 	"SpotlightMaterial" "sprites/glow_test02.vmt"
 	"spotlightwidth" "50"
-	"origin" "-4476 -1302 372"
+	"origin" "-4475 -1302 373"
 	editor
 	{
 		"color" "220 30 220"
@@ -288238,7 +288239,7 @@ entity
 	"_quadratic_attn" "1"
 	"angles" "-90 0 0"
 	"pitch" "-90"
-	"origin" "-4476 -1302 368"
+	"origin" "-4475 -1302 369"
 	editor
 	{
 		"color" "220 30 220"
@@ -691938,8 +691939,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-4675.15 -1360.8 565.857]"
-		"look" "[-4582.51 -1116.94 512.307]"
+		"position" "[-3761.24 -735.826 415.999]"
+		"look" "[-4008.82 -732.361 317.964]"
 	}
 }
 cordons
