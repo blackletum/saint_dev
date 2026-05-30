@@ -1,0 +1,95 @@
+"credits.txt"
+{
+"CreditsParams"
+{
+	"fadeintime"		"2.5"
+	"fadeouttime"		"1"
+	"fadeholdtime"		"1.0"
+	"nextfadetime"		"1.0"
+	"pausebetweenwaves"	"1.0"
+	"logotime"		"8.0"
+	"posx"			"96"
+	"posy"			"360"
+	"color"			"255 255 255 128"
+	// Outro Parameters
+	"scrolltime"		"70"		// Lower = faster scroll. 100 was very slow.
+	"separation"		"8"
+}
+
+"OutroCreditsNames"
+{
+	"Lambda Incursion: Redux"			"ClientTitleFont"
+	" "						"CreditsText"
+
+	"Redux Creator"					"CreditsText"
+	"SaintSoftware"					"CreditsOutroText"
+
+	" "						"CreditsText"
+
+	"Contributors"					"CreditsText"
+	"Average Medal Enjoyer"				"CreditsOutroText"
+	"Extensive mapping/feedback"			"CreditsOutroText"
+	" "						"CreditsText"
+	"Tyro/Xerin"					"CreditsOutroText"
+	"Map help/feedback"				"CreditsOutroText"
+	" "						"CreditsText"
+	"Playtesters"					"CreditsText"
+	"Average Medal Enjoyer"				"CreditsOutroText"
+	"Tyro/Xerin"					"CreditsOutroText"
+	"Dogo"						"CreditsOutroText"
+	"Grub"						"CreditsOutroText"
+	"Tayn"						"CreditsOutroText"
+	" "						"CreditsText"
+	"Special thanks:"				"CreditsText"
+	"Camblu"					"CreditsOutroText"
+	"Inspiration"					"CreditsOutroText"
+	" "						"CreditsText"
+	"Brolunite:"					"CreditsOutroText"
+	"Icons"						"CreditsOutroText"
+	" "						"CreditsText"
+	"ArgonianGuard"					"CreditsOutroText"
+	"Zombie melee code"				"CreditsOutroText"
+	" "						"CreditsText"
+	"GordonFreakman"				"CreditsOutroText"
+	"Weapon zoom code"				"CreditsOutroText"
+	" "						"CreditsText"
+	"TheMaster974"					"CreditsOutroText"
+	"FOV/Wall clipping code"			"CreditsOutroText"
+	" "						"CreditsText"
+	" "						"CreditsText"
+	"EXTRA special thanks:"				"CreditsText"
+	"bschou"					"CreditsOutroText"
+	"Original mod creator"				"CreditsOutroText"
+	" "						"CreditsText"
+	" "						"CreditsText"
+
+	"@"						"CreditsOutroLogos"
+
+	" "						"CreditsOutroText"
+
+	"Original credits:"				"CreditsText"
+	"Lambda Incursion"				"CreditsOutroText"
+	" "						"CreditsOutroText"
+	"Creator"					"CreditsOutroText"
+	"Bertram Chou"					"CreditsOutroText"
+
+	"Thanks to the Beta Testers Collective for feedback and advice!"	"CreditsOutroText"
+
+	"Testers"					"CreditsText"
+	"Jasper"					"CreditsOutroText"
+	"Ade"						"CreditsOutroText"
+	"Major Banter"					"CreditsOutroText"
+	"Shaun"						"CreditsOutroText"
+
+	" "						"CreditsText"
+
+	"Please give your thoughts, feedback, and criticism on Planetphillip.com or ModDb.com"	"CreditsOutroText"
+	"Your opinions and criticism are greatly appreciated!"			"CreditsOutroText"
+	"Thanks for playing! Hope you had fun!"		"CreditsOutroText"
+	" "						"CreditsText"
+	" "						"CreditsText"
+
+	" A"						"CreditsOutroLogos"
+}
+
+}
