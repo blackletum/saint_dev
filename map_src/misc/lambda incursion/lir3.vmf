@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "134"
+	"mapversion" "136"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "134"
+	"mapversion" "136"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"comment" "Decompiled by BSPSource v1.4.3 from lambdaincursion3"
@@ -224910,6 +224910,7 @@ entity
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"solid" "6"
+	"targetname" "weapon_crowbar"
 	"origin" "1680 2512 5.15415"
 	editor
 	{
@@ -234803,7 +234804,7 @@ entity
 	"Template04" "weapon_smg1"
 	"Template05" "weapon_physcannon"
 	"Template06" "weapon_crowbar"
-	"Template07" "weapon_pistol"
+	"Template07" "weapon_pitol"
 	"origin" "1614.63 2510.14 9"
 	editor
 	{
@@ -400606,8 +400607,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1187.16 -1624.49 197.327]"
-		"look" "[-1130.84 -1368.28 151.074]"
+		"position" "[1662.13 2565.4 37.2589]"
+		"look" "[1590.78 2322.92 -46.8209]"
 	}
 	camera
 	{
